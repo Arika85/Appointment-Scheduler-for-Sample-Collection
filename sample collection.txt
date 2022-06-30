@@ -1,0 +1,77 @@
+Independent Variables:
+1. Patient ID = ID Given to the patient on booking the test
+
+2. Agent ID = ID of the agent assigned to pick the sample
+
+3. Pincode = Patient area Pincode, where the sample must be collected
+
+4. patient location = Area of the patient
+
+5. Latitudes and Longitudes (Patient) = Location of the patient in Latitudes and Longitudes
+
+6. Latitudes and Longitudes (Agent) = Location of the Agent in Latitudes and Longitudes
+
+7. Latitudes and Longitudes (Diagnostic Center) = Location of the Diagnostic Center in Latitudes and Longitudes
+
+8. Diagnostic Centers = Name of the diagnostic center where the sample must be delivered
+
+10. Time slot = The time slot in which the patient can book the sample pickup
+
+11. shortest distance Agent-Pathlab(m) = The shortest distance between agent and pathology lab
+ 
+12. shortest distance Patient-Pathlab(m) = The shortest distance between patient and pathology lab
+
+13. shortest distance Patient-Agent(m) = Shortest distance between patient and agent
+
+14. Availability time (Patient) = Patient availability for sample collection 
+
+15. Age = Age of the patient
+
+16. Gender = Gender of the patient
+
+17. Test Booking Date = The date on which the test was booked
+
+18. Test Booking Time HH:MM = The time at which the test was booked
+
+19. Test name = Name of the test booked
+
+20. Sample = The kind of sample to be collected for that particular test booked
+
+21. Way Of Storage Of Sample = How the sample is stored
+
+22. Sample Collection Date = The date on which the patient asked the sample to be collected
+
+23. Time For Sample Collection MM = Time taken for sample collection
+
+24. Time Agent-Pathlab sec = Time taken in seconds for the agent to reach the pathology lab from agent current location
+
+25. Agent Arrival Time (range) HH:MM = Time at which agent might arrive at patient's place
+				for this column we use  "Availability time (Patient)" and
+                         in this column we consider time interval of 1hr i.e. 60mins
+				and in that we take approx ci = 83% , alpha = 10
+				by that range will decrease to 50min(approx) required
+                         column
+
+26. Exact Arrival Time MM = Exact time at which the agent will arrive at patient's place at there availability time
+				again we take ci = 87%
+				sd = 1.5
+				alpha = 6
+				new range = 50-6 = 44mins
+then we apply following logic,
+	x = shortest distance Patient-Agent(m)		
+    if x is < 500:
+        return 44-20
+    elif x is < 500 and > 1000:
+        return 44-10
+    elif x is > 1000 < 5000:
+        return 44-5
+    elif x is > 5000 and < 10000:
+        return 44+5
+    elif x is > 10000 and < 15000:
+        return 44+10
+    else:   #x>15000
+        44+20
+
+notice in our dataset inside x column we have few values which is grether than 68km n for that we will get Exact Arrival Time MM > Agent Arrival Time (range) HH:MM..
+
+

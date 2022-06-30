@@ -1,0 +1,1304 @@
+Patient ID,Agent ID,Time slot,shortest distance Agent-Pathlab(m),shortest distance Patient-Pathlab(m),shortest distance Patient-Agent(m),Availabilty time (Patient),Test name,Sample,Way Of Storage Of Sample,Time For Sample Collection MM,Time Agent-Pathlab M,Exact Arrival Time MM
+MD1001,26,06:00 to 21:00 (Home),2713,2840,778,09:00 to 10:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,11,22.608333333333334,34
+MD1002,40,19:00 to 22:00 (working person),2490,1378,1126,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,10,20.75,39
+MD1003,19,06:00 to 18:00 (Collect at work place),4849,4458,416,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,12,40.40833333333333,24
+MD1004,45,19:00 to 22:00 (working person),4348,2316,3843,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,36.233333333333334,39
+MD1005,12,06:00 to 18:00 (Collect at work place),2725,4377,2818,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,10,22.708333333333336,39
+VD1001,17,06:00 to 21:00 (Home),6828,5301,2447,07:00 to 08:00,Lipid Profile,Blood,Vaccum blood collection tube,9,56.89999999999999,39
+VD1002,43,19:00 to 22:00 (working person),8326,6268,5332,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,11,69.38333333333334,49
+VD1003,14,06:00 to 18:00 (Collect at work place),2518,3321,3175,16:00 to 17:00,H1N1,Swab,Disposable plastic container,11,20.983333333333334,39
+VD1004,14,06:00 to 21:00 (Home),5626,2099,5381,06:00 to 07:00,RTPCR,Swab,Disposable plastic container,7,46.88333333333333,49
+VD1005,27,19:00 to 22:00 (working person),8022,9724,1807,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,66.85000000000001,39
+AD1001,41,06:00 to 18:00 (Collect at work place),7592,8161,2011,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,15,63.26666666666667,39
+AD1002,34,19:00 to 22:00 (working person),6846,5490,1432,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,57.05,39
+AD1003,12,06:00 to 18:00 (Collect at work place),8442,8104,1219,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,7,70.35,39
+AD1004,34,06:00 to 21:00 (Home),6466,7046,844,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,7,53.88333333333334,34
+AD1005,13,19:00 to 22:00 (working person),7560,9103,2526,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,15,63.0,39
+LMD1001,15,06:00 to 18:00 (Collect at work place),9212,9212,0,17:00 to 18:00,H1N1,Swab,Disposable plastic container,8,76.76666666666667,24
+LMD1002,30,06:00 to 21:00 (Home),9604,10760,1365,08:00 to 09:00,RTPCR,Swab,Disposable plastic container,17,80.03333333333333,39
+LMD1003,50,06:00 to 21:00 (Home),9975,9967,1173,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,83.125,39
+LMD1004,19,19:00 to 22:00 (working person),10047,8321,1756,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,9,83.72500000000001,39
+LMD1005,30,06:00 to 18:00 (Collect at work place),11521,10986,2040,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,10,96.00833333333333,39
+VV1001,20,19:00 to 22:00 (working person),2248,2145,2213,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,13,18.733333333333334,39
+VV1002,12,06:00 to 18:00 (Collect at work place),417,2054,2321,13:00 to 14:00,H1N1,Swab,Disposable plastic container,18,3.4750000000000005,39
+VV1003,34,06:00 to 21:00 (Home),3263,3646,1897,07:00 to 08:00,RTPCR,Swab,Disposable plastic container,17,27.191666666666666,39
+VV1004,27,19:00 to 22:00 (working person),2212,6128,3915,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,18.433333333333334,39
+VV1005,23,06:00 to 18:00 (Collect at work place),3509,5601,2146,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,16,29.241666666666664,39
+MFD1001,40,06:00 to 21:00 (Home),434,1710,2032,06:00 to 07:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,3.6166666666666663,39
+MFD1002,41,19:00 to 22:00 (working person),1066,1614,547,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,10,8.883333333333333,34
+MFD1003,38,06:00 to 18:00 (Collect at work place),6330,1167,5837,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,19,52.75,49
+MFD1004,42,06:00 to 21:00 (Home),1153,2001,1238,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,15,9.608333333333333,39
+MFD1005,19,19:00 to 22:00 (working person),347,1236,967,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,15,2.8916666666666666,34
+DD1001,25,06:00 to 18:00 (Collect at work place),7372,16057,8712,10:00 to 11:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,61.43333333333334,49
+DD1002,27,19:00 to 22:00 (working person),5354,28682,30163,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,12,44.61666666666667,64
+DD1003,18,06:00 to 18:00 (Collect at work place),9465,8333,16033,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,15,78.875,64
+DD1004,37,06:00 to 21:00 (Home),7512,11876,10310,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,7,62.60000000000001,54
+DD1005,42,19:00 to 22:00 (working person),4879,14688,11331,20:00 to 21:00,H1N1,Swab,Disposable plastic container,16,40.65833333333333,54
+TS1001,37,06:00 to 18:00 (Collect at work place),4402,8257,3855,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,17,36.68333333333334,39
+TS1002,37,06:00 to 21:00 (Home),501,6583,7027,09:00 to 10:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,4.175000000000001,49
+TS1003,30,19:00 to 22:00 (working person),4029,10479,7769,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,13,33.575,49
+TS1004,29,06:00 to 18:00 (Collect at work place),6708,6849,3502,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,55.9,39
+TS1005,50,19:00 to 22:00 (working person),3244,9586,6647,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,17,27.03333333333333,49
+PDC1001,21,06:00 to 18:00 (Collect at work place),602,4745,4674,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,11,5.0166666666666675,39
+PDC1002,42,06:00 to 21:00 (Home),323,5591,5823,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,18,2.6916666666666664,49
+PDC1003,20,19:00 to 22:00 (working person),617,4179,4367,20:00 to 21:00,H1N1,Swab,Disposable plastic container,13,5.141666666666667,39
+PDC1004,32,06:00 to 18:00 (Collect at work place),1410,9483,10878,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,13,11.75,54
+PDC1005,28,06:00 to 21:00 (Home),825,7978,7439,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,6.875,49
+SSD1001,42,06:00 to 21:00 (Home),3420,1917,1599,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,16,28.5,39
+SSD1002,30,19:00 to 22:00 (working person),3554,2305,1282,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,15,29.616666666666664,39
+SSD1003,37,06:00 to 18:00 (Collect at work place),381,3593,3969,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,7,3.175,39
+SSD1004,16,19:00 to 22:00 (working person),680,1307,1979,19:00 to 20:00,H1N1,Swab,Disposable plastic container,14,5.666666666666666,39
+SSD1005,14,06:00 to 18:00 (Collect at work place),4708,5972,2077,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,6,39.233333333333334,39
+MD1006,34,06:00 to 21:00 (Home),76,8291,8358,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,0.6333333333333333,49
+MD1007,41,19:00 to 22:00 (working person),9654,1610,8415,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,13,80.45,49
+MD1008,37,06:00 to 18:00 (Collect at work place),9199,8522,3203,08:00 to 09:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,76.65833333333333,39
+MD1009,46,06:00 to 21:00 (Home),11043,10564,3220,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,14,92.02499999999999,39
+MD1010,32,19:00 to 22:00 (working person),5830,3331,2647,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,48.583333333333336,39
+VD1006,11,06:00 to 18:00 (Collect at work place),2367,2582,1562,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,20,19.724999999999998,39
+VD1007,37,06:00 to 21:00 (Home),1644,1071,837,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,17,13.700000000000001,34
+VD1008,27,19:00 to 22:00 (working person),2489,2569,440,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,13,20.741666666666667,24
+VD1009,33,06:00 to 18:00 (Collect at work place),1484,913,1346,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,7,12.366666666666667,39
+VD1010,21,19:00 to 22:00 (working person),4413,2395,6774,20:00 to 21:00,H1N1,Swab,Disposable plastic container,15,36.775000000000006,49
+AD1006,13,06:00 to 18:00 (Collect at work place),3296,3833,1782,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,12,27.46666666666667,39
+AD1007,17,06:00 to 21:00 (Home),3042,5035,3598,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,25.349999999999998,39
+AD1008,34,19:00 to 22:00 (working person),4177,5190,2880,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,10,34.80833333333334,39
+AD1009,36,06:00 to 18:00 (Collect at work place),3647,869,3145,15:00 to 16:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,30.391666666666666,39
+AD1010,35,06:00 to 21:00 (Home),4930,5245,614,18:00 to 19:00,TSH,Blood,Vaccum blood collection tube,16,41.083333333333336,34
+LMD1006,13,19:00 to 22:00 (working person),13442,12408,1159,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,11,112.01666666666667,39
+LMD1007,30,06:00 to 18:00 (Collect at work place),12351,14019,2158,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,20,102.92499999999998,39
+LMD1008,46,19:00 to 22:00 (working person),9948,11654,1734,19:00 to 20:00,H1N1,Swab,Disposable plastic container,19,82.89999999999999,39
+LMD1009,26,06:00 to 18:00 (Collect at work place),10415,8573,2058,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,14,86.79166666666667,39
+LMD1010,24,06:00 to 21:00 (Home),11801,9393,3090,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,98.34166666666667,39
+VV1006,16,19:00 to 22:00 (working person),1795,866,951,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,10,14.958333333333334,34
+VV1007,37,06:00 to 18:00 (Collect at work place),1853,1612,1250,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,11,15.441666666666666,39
+VV1008,48,06:00 to 21:00 (Home),2166,2433,1341,09:00 to 10:00,Complete Urinalysis,Urine,Urine culture transport tube,14,18.05,39
+VV1009,19,06:00 to 21:00 (Home),921,942,757,19:00 to 20:00,H1N1,Swab,Disposable plastic container,5,7.675,34
+VV1010,26,19:00 to 22:00 (working person),1195,1240,614,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,8,9.958333333333334,34
+MFD1006,18,06:00 to 18:00 (Collect at work place),3759,435,3382,11:00 to 12:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,31.325,39
+MFD1007,11,19:00 to 22:00 (working person),417,217,203,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,18,3.4750000000000005,24
+MFD1008,35,06:00 to 18:00 (Collect at work place),599,689,210,07:00 to 08:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,4.991666666666666,24
+MFD1009,15,06:00 to 21:00 (Home),604,397,281,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,9,5.033333333333333,24
+MFD1010,21,19:00 to 22:00 (working person),1302,1482,540,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,14,10.85,34
+DD1006,31,06:00 to 18:00 (Collect at work place),11478,5502,9716,09:00 to 10:00,Complete Urinalysis,Urine,Urine culture transport tube,12,95.64999999999999,49
+DD1007,17,06:00 to 21:00 (Home),8684,8356,16913,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,16,72.36666666666666,64
+DD1008,24,19:00 to 22:00 (working person),11265,17223,6264,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,93.875,49
+DD1009,28,06:00 to 18:00 (Collect at work place),2805,11877,14649,17:00 to 18:00,TSH,Blood,Vaccum blood collection tube,10,23.375,54
+DD1010,14,06:00 to 21:00 (Home),12092,15506,7796,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,8,100.76666666666667,49
+TS1006,11,19:00 to 22:00 (working person),142,605,706,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,5,1.1833333333333333,34
+TS1007,29,06:00 to 18:00 (Collect at work place),305,211,214,13:00 to 14:00,H1N1,Swab,Disposable plastic container,12,2.5416666666666665,24
+TS1008,31,19:00 to 22:00 (working person),185,3147,3328,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,6,1.5416666666666667,39
+TS1009,30,06:00 to 18:00 (Collect at work place),418,1896,2270,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,3.4833333333333334,39
+TS1010,13,06:00 to 21:00 (Home),364,1175,1353,12:00 to 13:00,CBC,Blood,Vaccum blood collection tube,17,3.033333333333333,39
+PDC1006,49,19:00 to 22:00 (working person),389,404,42,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,3.2416666666666667,24
+PDC1007,26,06:00 to 18:00 (Collect at work place),313,366,663,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,13,2.6083333333333334,34
+PDC1008,37,06:00 to 21:00 (Home),143,366,482,18:00 to 19:00,Lipid Profile,Blood,Vaccum blood collection tube,18,1.1916666666666667,24
+PDC1009,47,19:00 to 22:00 (working person),4483,502,4551,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,13,37.358333333333334,39
+PDC1010,39,06:00 to 18:00 (Collect at work place),617,384,897,07:00 to 08:00,H1N1,Swab,Disposable plastic container,13,5.141666666666667,34
+SSD1006,31,19:00 to 22:00 (working person),6090,7268,5742,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,9,50.75,49
+SSD1007,35,06:00 to 18:00 (Collect at work place),4841,6576,6514,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,40.34166666666667,49
+SSD1008,19,06:00 to 21:00 (Home),5403,2803,2629,06:00 to 07:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,12,45.02499999999999,39
+SSD1009,27,19:00 to 22:00 (working person),6554,7006,4569,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,8,54.61666666666667,39
+SSD1010,42,06:00 to 18:00 (Collect at work place),4995,2719,7698,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,6,41.625,49
+AD1011,22,06:00 to 21:00 (Home),4,7899,7895,20:00 to 21:00,H1N1,Swab,Disposable plastic container,11,0.03333333333333333,49
+AD1012,44,06:00 to 21:00 (Home),9,3477,3474,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,13,0.07500000000000001,39
+AD1013,49,19:00 to 22:00 (working person),15,3531,3527,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,0.125,39
+AD1014,43,06:00 to 18:00 (Collect at work place),12,3519,3527,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,8,0.1,39
+AD1015,48,19:00 to 22:00 (working person),53,3694,3641,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,16,0.44166666666666665,39
+AD1016,19,06:00 to 18:00 (Collect at work place),0,3262,3262,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,19,0.0,39
+DD1011,28,06:00 to 21:00 (Home),30,21178,21208,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,5,0.25,64
+DD1012,49,19:00 to 22:00 (working person),18,15577,15561,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,9,0.15000000000000002,64
+DD1013,49,06:00 to 18:00 (Collect at work place),0,15543,15543,09:00 to 10:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,0.0,64
+DD1014,49,06:00 to 21:00 (Home),42,11354,11396,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,8,0.35000000000000003,54
+DD1015,46,19:00 to 22:00 (working person),0,22477,22477,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,12,0.0,64
+DD1016,50,06:00 to 18:00 (Collect at work place),0,18013,18013,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,0.0,64
+LMD1011,43,06:00 to 21:00 (Home),102,14850,14749,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,6,0.8499999999999999,54
+LMD1012,22,19:00 to 22:00 (working person),61,14795,14747,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,6,0.5083333333333333,54
+LMD1013,32,06:00 to 18:00 (Collect at work place),74,8818,8786,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,18,0.6166666666666667,49
+LMD1014,42,19:00 to 22:00 (working person),37,8731,8696,20:00 to 21:00,H1N1,Swab,Disposable plastic container,5,0.30833333333333335,49
+LMD1015,18,06:00 to 18:00 (Collect at work place),0,16936,16936,06:00 to 07:00,RTPCR,Swab,Disposable plastic container,14,0.0,64
+LMD1016,21,06:00 to 21:00 (Home),89,11510,11422,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,0.7416666666666667,54
+MFD1011,29,19:00 to 22:00 (working person),33,8025,8036,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,10,0.275,49
+MFD1012,11,06:00 to 18:00 (Collect at work place),74,7680,7753,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10,0.6166666666666667,49
+MFD1013,27,06:00 to 21:00 (Home),68,2301,2338,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,7,0.5666666666666667,39
+MFD1014,17,19:00 to 22:00 (working person),3,4773,4776,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,15,0.025,39
+MFD1015,49,06:00 to 18:00 (Collect at work place),13,1554,1559,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,13,0.10833333333333334,39
+MFD1016,46,19:00 to 22:00 (working person),19,4661,4662,19:00 to 20:00,H1N1,Swab,Disposable plastic container,20,0.15833333333333333,39
+PDC1011,20,06:00 to 18:00 (Collect at work place),36,11010,10974,08:00 to 09:00,RTPCR,Swab,Disposable plastic container,20,0.30000000000000004,54
+PDC1012,15,06:00 to 21:00 (Home),0,11033,11033,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,16,0.0,54
+PDC1013,29,19:00 to 22:00 (working person),34,1886,1903,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,7,0.2833333333333333,39
+PDC1014,30,06:00 to 18:00 (Collect at work place),4,3554,3556,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,8,0.03333333333333333,39
+PDC1015,18,06:00 to 21:00 (Home),26,8564,8576,18:00 to 19:00,Complete Urinalysis,Urine,Urine culture transport tube,20,0.21666666666666667,49
+PDC1016,11,06:00 to 21:00 (Home),35,8340,8371,13:00 to 14:00,H1N1,Swab,Disposable plastic container,15,0.2916666666666667,49
+SSD1011,23,19:00 to 22:00 (working person),18,13545,13563,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,10,0.15000000000000002,54
+SSD1012,48,06:00 to 18:00 (Collect at work place),0,13095,13095,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,0.0,54
+SSD1013,34,19:00 to 22:00 (working person),22,9892,9873,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,15,0.18333333333333335,49
+SSD1014,42,06:00 to 18:00 (Collect at work place),63,9935,9943,06:00 to 07:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,0.525,49
+SSD1015,35,06:00 to 21:00 (Home),67,7126,7153,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,17,0.5583333333333333,49
+SSD1016,14,19:00 to 22:00 (working person),599,19843,20268,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,8,4.991666666666666,64
+TS1011,16,06:00 to 18:00 (Collect at work place),21,3420,3402,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,19,0.17500000000000002,39
+TS1012,45,06:00 to 21:00 (Home),38,7197,7203,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,14,0.31666666666666665,49
+TS1013,17,19:00 to 22:00 (working person),14,10478,10466,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,11,0.11666666666666665,54
+TS1014,40,06:00 to 18:00 (Collect at work place),32,7942,7944,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,18,0.26666666666666666,49
+TS1015,40,06:00 to 21:00 (Home),0,2416,2416,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,15,0.0,39
+TS1016,47,19:00 to 22:00 (working person),80,2442,2387,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,6,0.6666666666666666,39
+VD1011,29,06:00 to 18:00 (Collect at work place),125,8013,8094,12:00 to 13:00,H1N1,Swab,Disposable plastic container,20,1.0416666666666667,49
+VD1012,30,19:00 to 22:00 (working person),134,8743,8825,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,15,1.1166666666666667,49
+VD1013,30,06:00 to 18:00 (Collect at work place),131,1097,973,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,1.0916666666666666,34
+VD1014,20,06:00 to 21:00 (Home),125,2958,2911,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,16,1.0416666666666667,39
+VD1015,25,19:00 to 22:00 (working person),129,2723,2674,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,1.075,39
+VD1016,39,06:00 to 18:00 (Collect at work place),127,4968,5091,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,11,1.0583333333333331,49
+VV1011,41,06:00 to 21:00 (Home),25,11240,11251,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,18,0.20833333333333331,54
+VV1012,42,19:00 to 22:00 (working person),27,2987,3003,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,10,0.22500000000000003,39
+VV1013,48,06:00 to 18:00 (Collect at work place),54,3162,3191,06:00 to 07:00,H1N1,Swab,Disposable plastic container,18,0.45000000000000007,39
+VV1014,33,19:00 to 22:00 (working person),8,919,918,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,8,0.06666666666666667,34
+VV1015,15,06:00 to 18:00 (Collect at work place),0,6804,6804,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,0.0,49
+VV1016,36,06:00 to 21:00 (Home),0,6858,6858,18:00 to 19:00,TSH,Blood,Vaccum blood collection tube,8,0.0,49
+MD1011,35,19:00 to 22:00 (working person),176,71,182,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,11,1.4666666666666668,24
+MD1012,36,06:00 to 18:00 (Collect at work place),195,142,250,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,10,1.625,24
+MD1013,49,06:00 to 21:00 (Home),1492,311,1242,19:00 to 20:00,H1N1,Swab,Disposable plastic container,12,12.433333333333332,39
+VD1017,18,06:00 to 21:00 (Home),424,1784,1701,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,17,3.533333333333333,39
+VD1018,46,19:00 to 22:00 (working person),236,279,345,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,1.9666666666666668,24
+VD1019,27,06:00 to 18:00 (Collect at work place),406,641,652,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,7,3.3833333333333333,34
+AD1017,28,19:00 to 22:00 (working person),1619,813,1667,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,13.491666666666667,39
+AD1018,15,06:00 to 18:00 (Collect at work place),338,478,431,09:00 to 10:00,TSH,Blood,Vaccum blood collection tube,9,2.8166666666666664,24
+AD1019,49,06:00 to 21:00 (Home),478,1619,1421,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,13,3.9833333333333334,39
+LMD1017,46,19:00 to 22:00 (working person),350,501,223,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,10,2.916666666666667,24
+LMD1018,13,06:00 to 18:00 (Collect at work place),258,296,94,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,7,2.15,24
+LMD1019,31,06:00 to 21:00 (Home),422,270,280,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,8,3.5166666666666666,24
+LMD1020,16,19:00 to 22:00 (working person),680,524,227,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,16,5.666666666666666,24
+LMD1021,27,06:00 to 18:00 (Collect at work place),261,479,429,12:00 to 13:00,H1N1,Swab,Disposable plastic container,7,2.175,24
+VV1017,34,06:00 to 21:00 (Home),1373,2925,2345,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,13,11.441666666666668,39
+VV1018,12,19:00 to 22:00 (working person),353,267,90,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,2.9416666666666664,24
+VV1019,17,06:00 to 18:00 (Collect at work place),526,345,238,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,5,4.383333333333334,24
+VV1020,31,19:00 to 22:00 (working person),370,393,72,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,3.0833333333333335,24
+VV1021,44,06:00 to 18:00 (Collect at work place),199,163,59,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,14,1.6583333333333332,24
+MFD1017,33,06:00 to 21:00 (Home),357,326,55,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,20,2.9750000000000005,24
+MFD1018,26,19:00 to 22:00 (working person),250,299,311,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,16,2.0833333333333335,24
+MFD1019,15,06:00 to 18:00 (Collect at work place),196,226,30,15:00 to 16:00,H1N1,Swab,Disposable plastic container,6,1.6333333333333335,24
+MFD1020,39,06:00 to 21:00 (Home),407,798,885,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,16,3.3916666666666666,34
+MFD1021,38,19:00 to 22:00 (working person),192,471,418,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,1.6,24
+DD1017,11,06:00 to 18:00 (Collect at work place),464,336,374,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,14,3.8666666666666667,24
+DD1018,40,19:00 to 22:00 (working person),568,282,289,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,16,4.733333333333333,24
+DD1019,13,06:00 to 18:00 (Collect at work place),206,169,252,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,16,1.7166666666666668,24
+DD1020,44,06:00 to 21:00 (Home),143,61,83,18:00 to 19:00,H1N1,Swab,Disposable plastic container,5,1.1916666666666667,24
+DD1021,20,19:00 to 22:00 (working person),904,686,897,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,14,7.533333333333334,34
+TS1017,12,06:00 to 18:00 (Collect at work place),157,517,362,07:00 to 08:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,10,1.3083333333333333,24
+TS1018,23,06:00 to 21:00 (Home),353,157,206,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,12,2.9416666666666664,24
+TS1019,35,06:00 to 21:00 (Home),396,423,798,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,3.3000000000000003,34
+TS1020,11,19:00 to 22:00 (working person),517,416,121,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,5,4.308333333333334,24
+TS1021,39,06:00 to 18:00 (Collect at work place),723,408,1005,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,9,6.0249999999999995,39
+PDC1017,36,19:00 to 22:00 (working person),141,381,261,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,7,1.1749999999999998,24
+PDC1018,32,06:00 to 18:00 (Collect at work place),237,404,320,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,11,1.9749999999999999,24
+PDC1019,36,06:00 to 21:00 (Home),399,703,745,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,3.3249999999999997,34
+PDC1020,50,19:00 to 22:00 (working person),587,257,724,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,6,4.891666666666667,34
+PDC1021,41,06:00 to 18:00 (Collect at work place),8220,703,8658,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,20,68.5,49
+SSD1017,17,06:00 to 21:00 (Home),8561,278,8473,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,9,71.34166666666667,49
+SSD1018,20,19:00 to 22:00 (working person),8550,313,8794,20:00 to 21:00,H1N1,Swab,Disposable plastic container,6,71.25,49
+SSD1019,40,06:00 to 18:00 (Collect at work place),511,205,323,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,5,4.258333333333334,24
+SSD1020,34,06:00 to 21:00 (Home),294,273,392,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,2.45,24
+SSD1021,31,19:00 to 22:00 (working person),387,299,361,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,5,3.225,24
+MD1014,15,06:00 to 18:00 (Collect at work place),30,35,5,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,16,0.25,24
+MD1015,26,19:00 to 22:00 (working person),66,60,51,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,5,0.55,24
+MD1016,34,06:00 to 18:00 (Collect at work place),63,111,48,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,19,0.525,24
+VD1020,45,06:00 to 21:00 (Home),62,62,0,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,17,0.5166666666666666,24
+VD1021,31,19:00 to 22:00 (working person),119,79,100,19:00 to 20:00,H1N1,Swab,Disposable plastic container,16,0.9916666666666667,24
+VD1022,25,06:00 to 18:00 (Collect at work place),127,139,84,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,17,1.0583333333333331,24
+AD1020,12,06:00 to 21:00 (Home),48,110,72,16:00 to 17:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,11,0.4,24
+AD1021,32,19:00 to 22:00 (working person),85,111,46,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,13,0.7083333333333333,24
+AD1022,31,06:00 to 18:00 (Collect at work place),189,166,80,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,15,1.575,24
+LMD1022,48,19:00 to 22:00 (working person),167,142,56,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,10,1.3916666666666666,24
+LMD1023,10,06:00 to 18:00 (Collect at work place),142,65,85,14:00 to 15:00,H1N1,Swab,Disposable plastic container,6,1.1833333333333333,24
+LMD1024,26,06:00 to 21:00 (Home),65,236,177,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,12,0.5416666666666667,24
+VV1022,46,19:00 to 22:00 (working person),146,276,140,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,1.2166666666666666,24
+VV1023,37,06:00 to 18:00 (Collect at work place),67,128,90,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,18,0.5583333333333333,24
+VV1024,33,06:00 to 21:00 (Home),95,99,48,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,0.7916666666666666,24
+MFD1022,31,06:00 to 21:00 (Home),64,124,71,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,10,0.5333333333333333,24
+MFD1023,34,19:00 to 22:00 (working person),56,66,75,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,8,0.4666666666666666,24
+MFD1024,15,06:00 to 18:00 (Collect at work place),60,131,84,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,15,0.5,24
+DD1022,24,19:00 to 22:00 (working person),88,126,52,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,7,0.7333333333333334,24
+DD1023,38,06:00 to 18:00 (Collect at work place),100,46,146,16:00 to 17:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,14,0.8333333333333333,24
+DD1024,12,06:00 to 21:00 (Home),128,172,48,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,7,1.0666666666666667,24
+TS1022,21,19:00 to 22:00 (working person),60,65,28,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,0.5,24
+TS1023,18,06:00 to 18:00 (Collect at work place),95,105,20,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,13,0.7916666666666666,24
+TS1024,20,06:00 to 21:00 (Home),64,82,96,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,17,0.5333333333333333,24
+PDC1022,40,19:00 to 22:00 (working person),38,100,64,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,11,0.31666666666666665,24
+PDC1023,13,06:00 to 18:00 (Collect at work place),98,126,56,11:00 to 12:00,H1N1,Swab,Disposable plastic container,11,0.8166666666666668,24
+PDC1024,13,06:00 to 21:00 (Home),89,156,76,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,19,0.7416666666666667,24
+SSD1022,46,19:00 to 22:00 (working person),54,61,53,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,0.45000000000000007,24
+SSD1023,27,06:00 to 18:00 (Collect at work place),63,98,66,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,13,0.525,24
+SSD1024,41,19:00 to 22:00 (working person),98,129,71,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,0.8166666666666668,24
+VV1025,38,06:00 to 18:00 (Collect at work place),3331,2088,3610,09:00 to 10:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,20,27.758333333333333,39
+VV1026,13,06:00 to 21:00 (Home),2001,2001,0,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,18,16.675,24
+VV1027,15,19:00 to 22:00 (working person),9344,7670,1724,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,18,77.86666666666666,39
+VV1028,23,06:00 to 18:00 (Collect at work place),3949,4279,369,12:00 to 13:00,H1N1,Swab,Disposable plastic container,19,32.90833333333333,24
+MFD1025,26,06:00 to 21:00 (Home),1559,1420,139,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,18,12.991666666666667,24
+MFD1026,23,19:00 to 22:00 (working person),1798,1932,170,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,14.983333333333334,24
+MFD1027,34,06:00 to 18:00 (Collect at work place),4768,5147,379,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,20,39.733333333333334,24
+MFD1028,39,19:00 to 22:00 (working person),4296,4782,487,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,9,35.8,24
+MFD1029,31,06:00 to 18:00 (Collect at work place),4403,4642,241,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,13,36.69166666666667,24
+DD1025,23,06:00 to 21:00 (Home),1530,1307,252,13:00 to 14:00,H1N1,Swab,Disposable plastic container,18,12.75,24
+DD1026,21,19:00 to 22:00 (working person),3020,2772,448,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,5,25.166666666666664,24
+DD1027,19,06:00 to 18:00 (Collect at work place),3474,3657,409,17:00 to 18:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,28.95,24
+DD1028,14,06:00 to 21:00 (Home),3631,3935,442,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,13,30.258333333333333,24
+DD1029,10,06:00 to 21:00 (Home),3291,3536,321,06:00 to 07:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,27.425,24
+TS1024,24,19:00 to 22:00 (working person),1064,868,560,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,8,8.866666666666667,34
+TS1025,23,06:00 to 18:00 (Collect at work place),1699,1275,590,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,15,14.158333333333333,34
+TS1026,20,19:00 to 22:00 (working person),1900,1947,497,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,20,15.833333333333332,24
+TS1027,38,06:00 to 18:00 (Collect at work place),1962,2083,221,11:00 to 12:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,9,16.35,24
+TS1028,36,06:00 to 21:00 (Home),2086,1896,342,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,17.383333333333333,24
+PDC1025,25,19:00 to 22:00 (working person),614,132,551,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,15,5.116666666666666,34
+PDC1026,49,06:00 to 18:00 (Collect at work place),64,420,406,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,16,0.5333333333333333,24
+PDC1027,45,06:00 to 21:00 (Home),445,476,133,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,6,3.7083333333333335,24
+PDC1028,48,19:00 to 22:00 (working person),677,133,591,21:00 to 22:00,H1N1,Swab,Disposable plastic container,8,5.6416666666666675,34
+PDC1029,36,06:00 to 18:00 (Collect at work place),775,1147,415,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,16,6.458333333333334,24
+SSD1025,21,06:00 to 21:00 (Home),311,511,337,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,2.591666666666667,24
+SSD1026,21,19:00 to 22:00 (working person),537,258,601,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,12,4.475,34
+SSD1027,47,06:00 to 18:00 (Collect at work place),1411,863,579,13:00 to 14:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,11.758333333333333,34
+SSD1028,45,19:00 to 22:00 (working person),1472,948,546,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,16,12.266666666666666,34
+SSD1029,12,06:00 to 18:00 (Collect at work place),931,1070,560,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,6,7.758333333333333,34
+MD1016,36,06:00 to 21:00 (Home),500,2527,2027,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,20,4.166666666666667,39
+MD1017,44,19:00 to 22:00 (working person),657,2370,1947,20:00 to 21:00,H1N1,Swab,Disposable plastic container,8,5.475,39
+MD1018,16,06:00 to 18:00 (Collect at work place),3303,1283,2858,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,16,27.525,39
+MD1019,10,06:00 to 21:00 (Home),2606,3239,858,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,21.71666666666667,34
+MD1020,11,19:00 to 22:00 (working person),1372,1691,319,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,12,11.433333333333334,24
+VD1023,48,06:00 to 18:00 (Collect at work place),2042,2090,3246,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,20,17.016666666666666,39
+VD1024,30,19:00 to 22:00 (working person),1615,1511,741,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,18,13.458333333333334,34
+VD1025,48,06:00 to 18:00 (Collect at work place),957,2331,1768,16:00 to 17:00,H1N1,Swab,Disposable plastic container,17,7.975,39
+VD1026,42,06:00 to 21:00 (Home),3563,2232,1359,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,20,29.691666666666666,39
+VD1027,28,19:00 to 22:00 (working person),2702,2043,805,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,22.516666666666666,34
+AD1023,13,06:00 to 18:00 (Collect at work place),3014,4695,1749,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,10,25.116666666666664,39
+AD1024,27,06:00 to 21:00 (Home),2209,1503,2740,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,18.40833333333333,39
+AD1025,20,06:00 to 21:00 (Home),2096,3097,1579,09:00 to 10:00,TSH,Blood,Vaccum blood collection tube,17,17.466666666666665,39
+AD1026,19,19:00 to 22:00 (working person),1896,2703,824,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,5,15.799999999999999,34
+AD1027,19,06:00 to 18:00 (Collect at work place),1549,2284,2704,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,11,12.908333333333333,39
+LMD1025,35,19:00 to 22:00 (working person),2712,1825,887,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,12,22.599999999999998,34
+LMD1026,34,06:00 to 18:00 (Collect at work place),1156,1466,1165,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,19,9.633333333333333,39
+LMD1027,14,06:00 to 21:00 (Home),1900,1707,749,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,16,15.833333333333332,34
+LMD1028,31,19:00 to 22:00 (working person),719,2209,1698,20:00 to 21:00,H1N1,Swab,Disposable plastic container,17,5.991666666666667,39
+LMD1029,15,06:00 to 18:00 (Collect at work place),2120,1727,1506,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,9,17.666666666666664,39
+VV1029,50,06:00 to 21:00 (Home),1020,1261,531,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,8.5,34
+VV1030,28,19:00 to 22:00 (working person),1736,494,1984,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,8,14.466666666666665,39
+VV1031,50,06:00 to 18:00 (Collect at work place),1993,2272,2500,15:00 to 16:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,16.608333333333334,39
+VV1032,45,06:00 to 21:00 (Home),1719,789,1089,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,20,14.325000000000001,39
+VV1033,10,19:00 to 22:00 (working person),1824,2378,902,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,17,15.2,34
+MFD1030,37,06:00 to 18:00 (Collect at work place),4284,4400,540,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,12,35.699999999999996,34
+MFD1031,36,19:00 to 22:00 (working person),1495,4024,2539,19:00 to 20:00,H1N1,Swab,Disposable plastic container,12,12.458333333333334,39
+MFD1032,28,06:00 to 18:00 (Collect at work place),1872,1429,1994,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,12,15.599999999999998,39
+MFD1033,48,06:00 to 21:00 (Home),2036,475,1793,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,16.966666666666665,39
+MFD1034,13,19:00 to 22:00 (working person),3324,2735,1183,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,13,27.7,39
+DD1030,15,06:00 to 18:00 (Collect at work place),1400,2814,1419,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,9,11.666666666666668,39
+DD1031,16,06:00 to 21:00 (Home),376,2079,1833,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,20,3.1333333333333337,39
+DD1032,24,19:00 to 22:00 (working person),1300,2126,912,21:00 to 22:00,H1N1,Swab,Disposable plastic container,15,10.833333333333332,34
+DD1033,21,06:00 to 18:00 (Collect at work place),1375,1494,1208,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,19,11.458333333333332,39
+DD1034,34,19:00 to 22:00 (working person),2243,2041,1716,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,18.69166666666667,39
+TS1029,47,06:00 to 18:00 (Collect at work place),1393,1868,711,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,17,11.608333333333334,34
+TS1030,21,06:00 to 21:00 (Home),1267,337,1386,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,10.558333333333334,39
+TS1031,17,19:00 to 22:00 (working person),2415,194,2512,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,14,20.125,39
+TS1032,16,06:00 to 18:00 (Collect at work place),1441,383,1077,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,10,12.008333333333333,39
+TS1033,34,06:00 to 21:00 (Home),992,1522,892,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,13,8.266666666666666,34
+PDC1030,42,06:00 to 21:00 (Home),2982,4205,1343,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,5,24.849999999999998,39
+PDC1031,26,19:00 to 22:00 (working person),3287,4814,1558,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,27.391666666666666,39
+PDC1032,35,06:00 to 18:00 (Collect at work place),1672,5383,4210,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,7,13.933333333333334,39
+PDC1033,12,19:00 to 22:00 (working person),4154,3088,2666,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,18,34.61666666666667,39
+PDC1034,42,06:00 to 18:00 (Collect at work place),5115,3824,1789,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,18,42.625,39
+SSD1030,38,06:00 to 21:00 (Home),303,857,689,08:00 to 09:00,H1N1,Swab,Disposable plastic container,10,2.525,34
+SSD1031,49,19:00 to 22:00 (working person),1281,362,1162,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,14,10.674999999999999,39
+SSD1032,12,06:00 to 18:00 (Collect at work place),750,1889,1407,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,6.25,39
+SSD1033,37,06:00 to 21:00 (Home),942,1071,1537,09:00 to 10:00,CBC,Blood,Vaccum blood collection tube,10,7.8500000000000005,39
+SSD1034,26,19:00 to 22:00 (working person),1613,2067,476,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,13.441666666666666,24
+TS1034,12,06:00 to 18:00 (Collect at work place),21,3420,3402,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,17,0.17500000000000002,39
+TS1035,43,06:00 to 21:00 (Home),38,7197,7203,18:00 to 19:00,Lipid Profile,Blood,Vaccum blood collection tube,6,0.31666666666666665,49
+TS1036,43,19:00 to 22:00 (working person),14,10478,10466,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,13,0.11666666666666665,54
+TS1037,40,06:00 to 18:00 (Collect at work place),32,7942,7944,07:00 to 08:00,H1N1,Swab,Disposable plastic container,12,0.26666666666666666,49
+TS1038,25,19:00 to 22:00 (working person),0,2416,2416,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,12,0.0,39
+TS1039,33,06:00 to 18:00 (Collect at work place),80,2442,2387,16:00 to 17:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,0.6666666666666666,39
+VD1028,12,06:00 to 21:00 (Home),125,8013,8094,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,19,1.0416666666666667,49
+VD1029,42,19:00 to 22:00 (working person),134,8743,8825,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,13,1.1166666666666667,49
+VD1030,40,06:00 to 18:00 (Collect at work place),131,1097,973,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,7,1.0916666666666666,34
+VD1031,42,06:00 to 21:00 (Home),125,2958,2911,13:00 to 14:00,H1N1,Swab,Disposable plastic container,6,1.0416666666666667,39
+VD1032,33,19:00 to 22:00 (working person),129,2723,2674,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,13,1.075,39
+VD1033,45,06:00 to 18:00 (Collect at work place),127,4968,5091,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,1.0583333333333331,49
+SSD1035,36,19:00 to 22:00 (working person),18,13545,13563,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,20,0.15000000000000002,54
+SSD1036,24,06:00 to 18:00 (Collect at work place),0,13095,13095,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,0.0,54
+SSD1037,41,06:00 to 21:00 (Home),22,9892,9873,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,14,0.18333333333333335,49
+SSD1038,39,19:00 to 22:00 (working person),63,9935,9943,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,18,0.525,49
+SSD1039,11,06:00 to 18:00 (Collect at work place),67,7126,7153,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,8,0.5583333333333333,49
+SSD1040,25,06:00 to 21:00 (Home),599,19843,20268,14:00 to 15:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,11,4.991666666666666,64
+AD1028,41,06:00 to 21:00 (Home),4,7899,7895,12:00 to 13:00,HbA1c,Blood,Vaccum blood collection tube,10,0.03333333333333333,49
+AD1029,21,19:00 to 22:00 (working person),9,3477,3474,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,19,0.07500000000000001,39
+AD1030,35,06:00 to 18:00 (Collect at work place),15,3531,3527,07:00 to 08:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,0.125,39
+AD1031,35,19:00 to 22:00 (working person),12,3519,3527,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,11,0.1,39
+AD1032,27,06:00 to 18:00 (Collect at work place),53,3694,3641,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,15,0.44166666666666665,39
+AD1033,22,06:00 to 21:00 (Home),0,3262,3262,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,9,0.0,39
+DD1035,46,19:00 to 22:00 (working person),30,21178,21208,20:00 to 21:00,H1N1,Swab,Disposable plastic container,12,0.25,64
+DD1036,49,06:00 to 18:00 (Collect at work place),18,15577,15561,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,5,0.15000000000000002,64
+DD1037,40,06:00 to 21:00 (Home),0,15543,15543,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,0.0,64
+DD1038,15,19:00 to 22:00 (working person),42,11354,11396,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,6,0.35000000000000003,54
+DD1039,42,06:00 to 18:00 (Collect at work place),0,22477,22477,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,16,0.0,64
+DD1040,46,06:00 to 21:00 (Home),0,18013,18013,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,5,0.0,64
+MFD1035,32,19:00 to 22:00 (working person),33,8025,8036,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,18,0.275,49
+MFD1036,10,06:00 to 18:00 (Collect at work place),74,7680,7753,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,11,0.6166666666666667,49
+MFD1037,45,19:00 to 22:00 (working person),68,2301,2338,21:00 to 22:00,H1N1,Swab,Disposable plastic container,7,0.5666666666666667,39
+MFD1038,38,06:00 to 18:00 (Collect at work place),3,4773,4776,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,11,0.025,39
+MFD1039,39,06:00 to 21:00 (Home),13,1554,1559,09:00 to 10:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,0.10833333333333334,39
+MFD1040,37,19:00 to 22:00 (working person),19,4661,4662,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,16,0.15833333333333333,39
+PDC1035,45,06:00 to 18:00 (Collect at work place),6067,5801,2262,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,15,50.55833333333334,39
+PDC1036,38,06:00 to 21:00 (Home),6032,6558,2386,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,5,50.26666666666667,39
+PDC1037,39,19:00 to 22:00 (working person),4313,3454,4149,19:00 to 20:00,H1N1,Swab,Disposable plastic container,18,35.94166666666667,39
+PDC1038,20,06:00 to 18:00 (Collect at work place),4483,3749,4828,07:00 to 08:00,RTPCR,Swab,Disposable plastic container,8,37.358333333333334,39
+PDC1039,49,19:00 to 22:00 (working person),6549,575,6825,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,54.574999999999996,49
+VV1034,14,06:00 to 18:00 (Collect at work place),25,11240,11251,16:00 to 17:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,13,0.20833333333333331,54
+VV1035,46,06:00 to 21:00 (Home),27,2987,3003,06:00 to 07:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,11,0.22500000000000003,39
+VV1036,18,19:00 to 22:00 (working person),54,3162,3191,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,7,0.45000000000000007,39
+VV1037,35,06:00 to 18:00 (Collect at work place),8,919,918,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,11,0.06666666666666667,34
+VV1038,49,06:00 to 21:00 (Home),0,6804,6804,11:00 to 12:00,Complete Urinalysis,Urine,Urine culture transport tube,16,0.0,49
+VV1039,21,06:00 to 21:00 (Home),0,6858,6858,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,16,0.0,49
+AD1034,17,19:00 to 22:00 (working person),507,214,361,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,4.2250000000000005,24
+AD1035,30,06:00 to 18:00 (Collect at work place),750,583,224,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,7,6.25,24
+AD1036,47,19:00 to 22:00 (working person),444,270,630,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,10,3.7,34
+AD1037,18,06:00 to 18:00 (Collect at work place),246,213,455,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,6,2.0500000000000003,24
+AD1038,36,06:00 to 21:00 (Home),539,275,549,12:00 to 13:00,H1N1,Swab,Disposable plastic container,20,4.491666666666666,34
+AD1039,45,19:00 to 22:00 (working person),273,615,618,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,6,2.275,34
+AD1040,32,06:00 to 18:00 (Collect at work place),572,812,300,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,4.766666666666667,24
+AD1041,34,06:00 to 21:00 (Home),1021,482,1246,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,11,8.508333333333333,39
+AD1042,31,19:00 to 22:00 (working person),230,390,482,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10,1.9166666666666667,24
+AD1043,43,06:00 to 18:00 (Collect at work place),429,708,327,07:00 to 08:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,5,3.5749999999999997,24
+DD1041,29,06:00 to 21:00 (Home),83,249,217,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,5,0.6916666666666667,24
+DD1042,14,19:00 to 22:00 (working person),161,297,215,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,9,1.3416666666666668,24
+DD1043,46,06:00 to 18:00 (Collect at work place),293,434,356,06:00 to 07:00,H1N1,Swab,Disposable plastic container,11,2.441666666666667,24
+DD1044,44,19:00 to 22:00 (working person),330,456,560,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,19,2.75,34
+LMD1030,48,06:00 to 18:00 (Collect at work place),233,422,602,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,1.9416666666666669,34
+LMD1031,32,06:00 to 21:00 (Home),196,489,347,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,9,1.6333333333333335,24
+LMD1032,25,19:00 to 22:00 (working person),387,663,1034,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,13,3.225,39
+LMD1033,45,06:00 to 18:00 (Collect at work place),432,467,227,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,5,3.6000000000000005,24
+MFD1041,32,06:00 to 21:00 (Home),28,78,105,19:00 to 20:00,H1N1,Swab,Disposable plastic container,18,0.2333333333333333,24
+MFD1042,35,19:00 to 22:00 (working person),91,209,181,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,7,0.7583333333333333,24
+MFD1043,27,06:00 to 18:00 (Collect at work place),118,251,228,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,0.9833333333333334,24
+MFD1044,32,19:00 to 22:00 (working person),129,173,297,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,10,1.075,24
+MD1021,46,06:00 to 18:00 (Collect at work place),1397,1064,810,13:00 to 14:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,11.641666666666666,34
+MD1022,14,06:00 to 21:00 (Home),1707,1357,1494,09:00 to 10:00,TSH,Blood,Vaccum blood collection tube,15,14.224999999999998,39
+MD1023,46,19:00 to 22:00 (working person),1090,2224,2002,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,14,9.083333333333334,39
+MD1024,48,06:00 to 18:00 (Collect at work place),1292,1466,1885,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,12,10.766666666666666,39
+MD1025,27,06:00 to 21:00 (Home),2925,1292,3796,18:00 to 19:00,TSH,Blood,Vaccum blood collection tube,16,24.375,39
+MD1026,49,06:00 to 21:00 (Home),596,1065,1291,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,16,4.966666666666667,39
+SSD1041,21,19:00 to 22:00 (working person),361,1138,936,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,19,3.0083333333333333,34
+SSD1042,16,06:00 to 18:00 (Collect at work place),617,634,488,16:00 to 17:00,H1N1,Swab,Disposable plastic container,10,5.141666666666667,24
+SSD1043,32,19:00 to 22:00 (working person),402,1308,1570,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,9,3.35,39
+SSD1044,28,06:00 to 18:00 (Collect at work place),343,1338,1026,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,2.8583333333333334,39
+SSD1045,10,06:00 to 21:00 (Home),453,402,230,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,14,3.775,24
+SSD1046,35,19:00 to 22:00 (working person),1302,853,2153,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,14,10.85,39
+SSD1047,42,06:00 to 18:00 (Collect at work place),1308,839,1806,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,17,10.9,39
+SSD1048,10,06:00 to 21:00 (Home),1138,1491,825,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,5,9.483333333333334,34
+TS1040,49,19:00 to 22:00 (working person),64,221,264,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,10,0.5333333333333333,24
+TS1041,20,06:00 to 18:00 (Collect at work place),251,258,392,09:00 to 10:00,H1N1,Swab,Disposable plastic container,13,2.091666666666667,24
+VD1034,47,06:00 to 21:00 (Home),454,382,207,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,7,3.783333333333333,24
+VD1035,33,19:00 to 22:00 (working person),462,890,853,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,3.85,34
+VD1036,12,06:00 to 18:00 (Collect at work place),1302,1106,1053,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,11,10.85,39
+VD1037,14,19:00 to 22:00 (working person),1251,722,1806,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,15,10.425,39
+VD1038,45,06:00 to 18:00 (Collect at work place),890,720,978,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,9,7.416666666666667,34
+VD1039,21,06:00 to 21:00 (Home),1290,1282,1643,13:00 to 14:00,H1N1,Swab,Disposable plastic container,16,10.75,39
+TS1042,33,19:00 to 22:00 (working person),234,349,135,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,7,1.9499999999999997,24
+VV1040,33,06:00 to 18:00 (Collect at work place),103,464,409,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,0.8583333333333334,24
+VV1041,16,06:00 to 21:00 (Home),2129,3111,1025,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,20,17.741666666666667,39
+VV1042,24,19:00 to 22:00 (working person),3111,2037,1521,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,25.925000000000004,39
+VV1043,45,06:00 to 18:00 (Collect at work place),2037,1362,720,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,12,16.975,34
+VV1044,50,19:00 to 22:00 (working person),1362,2324,1912,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,7,11.35,39
+MFD1045,24,06:00 to 18:00 (Collect at work place),0,231,231,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,9,0.0,24
+MFD1046,41,06:00 to 21:00 (Home),231,1128,1228,18:00 to 19:00,CBC,Blood,Vaccum blood collection tube,20,1.925,39
+MFD1047,21,19:00 to 22:00 (working person),1128,1665,601,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,11,9.399999999999999,34
+MFD1048,17,06:00 to 18:00 (Collect at work place),1665,2476,2143,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,20,13.875,39
+MFD1049,23,06:00 to 21:00 (Home),2476,3344,2705,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,16,20.633333333333333,39
+DD1045,43,06:00 to 21:00 (Home),0,703,703,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,10,0.0,34
+DD1046,26,19:00 to 22:00 (working person),703,1228,812,20:00 to 21:00,H1N1,Swab,Disposable plastic container,13,5.858333333333333,34
+DD1047,43,06:00 to 18:00 (Collect at work place),1228,1323,389,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,18,10.233333333333333,24
+DD1048,46,19:00 to 22:00 (working person),1323,2339,1035,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,11.025,39
+DD1049,13,06:00 to 18:00 (Collect at work place),2339,2848,648,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,19,19.491666666666667,34
+TS1043,37,06:00 to 21:00 (Home),48,1115,1089,15:00 to 16:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,8,0.4,39
+TS1044,35,19:00 to 22:00 (working person),1115,2251,1140,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,17,9.291666666666668,39
+TS1045,19,06:00 to 18:00 (Collect at work place),2251,1189,1488,07:00 to 08:00,Lipid Profile,Blood,Vaccum blood collection tube,11,18.758333333333333,39
+TS1046,33,06:00 to 21:00 (Home),1189,2113,960,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,12,9.908333333333333,34
+TS1047,47,19:00 to 22:00 (working person),2113,1427,1553,19:00 to 20:00,H1N1,Swab,Disposable plastic container,7,17.608333333333334,39
+PDC1040,34,06:00 to 18:00 (Collect at work place),4753,4245,840,06:00 to 07:00,RTPCR,Swab,Disposable plastic container,19,39.608333333333334,34
+PDC1041,16,06:00 to 21:00 (Home),3685,2796,1362,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,30.708333333333332,39
+PDC1042,13,19:00 to 22:00 (working person),4155,4399,1057,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,11,34.625,39
+PDC1043,49,06:00 to 18:00 (Collect at work place),4399,5449,1556,11:00 to 12:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,17,36.65833333333333,39
+PDC1044,16,19:00 to 22:00 (working person),5449,5119,2747,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,13,45.40833333333333,39
+SSD1049,23,06:00 to 18:00 (Collect at work place),685,457,311,10:00 to 11:00,H1N1,Swab,Disposable plastic container,7,5.708333333333333,24
+SSD1050,42,06:00 to 21:00 (Home),526,347,493,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,20,4.383333333333334,24
+SSD1051,41,19:00 to 22:00 (working person),986,1185,571,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,8.216666666666667,34
+SSD1052,25,06:00 to 18:00 (Collect at work place),499,900,556,08:00 to 09:00,CBC,Blood,Vaccum blood collection tube,9,4.158333333333333,34
+SSD1053,45,06:00 to 21:00 (Home),843,497,764,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,7.025,34
+MD1027,26,19:00 to 22:00 (working person),250,825,606,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,10,2.0833333333333335,34
+MD1028,13,06:00 to 18:00 (Collect at work place),1107,1178,353,09:00 to 10:00,Lipid Profile,Blood,Vaccum blood collection tube,10,9.225,24
+MD1029,42,19:00 to 22:00 (working person),1517,1845,433,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,13,12.641666666666666,24
+MD1030,23,06:00 to 18:00 (Collect at work place),3313,2842,504,14:00 to 15:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,14,27.608333333333334,34
+MD1031,39,06:00 to 21:00 (Home),3016,2612,700,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,5,25.133333333333336,34
+VD1040,18,19:00 to 22:00 (working person),2070,2048,385,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,17.25,24
+VD1041,46,06:00 to 18:00 (Collect at work place),2055,1313,907,07:00 to 08:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,17.125,34
+VD1042,14,06:00 to 21:00 (Home),1954,2413,726,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,10,16.283333333333335,34
+VD1043,26,06:00 to 21:00 (Home),1454,1032,588,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,9,12.116666666666667,34
+VD1044,40,19:00 to 22:00 (working person),105,1812,1743,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,7,0.875,39
+AD1044,24,06:00 to 18:00 (Collect at work place),5044,4335,758,17:00 to 18:00,H1N1,Swab,Disposable plastic container,5,42.03333333333333,34
+AD1045,19,19:00 to 22:00 (working person),4571,3799,1183,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,15,38.09166666666667,39
+AD1046,29,06:00 to 18:00 (Collect at work place),3970,3128,852,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,33.08333333333333,34
+AD1047,38,06:00 to 21:00 (Home),2744,3109,862,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,9,22.866666666666667,34
+AD1048,21,19:00 to 22:00 (working person),2291,1948,927,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,19.09166666666667,34
+LMD1034,24,06:00 to 18:00 (Collect at work place),846,474,459,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,16,7.05,24
+LMD1035,19,06:00 to 21:00 (Home),578,1060,718,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,17,4.816666666666666,34
+LMD1036,17,19:00 to 22:00 (working person),1079,1681,912,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,7,8.991666666666667,34
+LMD1037,12,06:00 to 18:00 (Collect at work place),1736,1526,601,12:00 to 13:00,H1N1,Swab,Disposable plastic container,7,14.466666666666665,34
+LMD1038,36,06:00 to 21:00 (Home),1573,1719,622,08:00 to 09:00,RTPCR,Swab,Disposable plastic container,16,13.108333333333334,34
+LMD1039,29,19:00 to 22:00 (working person),37,137,101,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,0.30833333333333335,24
+LMD1040,24,06:00 to 18:00 (Collect at work place),175,163,24,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,17,1.4583333333333335,24
+LMD1041,41,19:00 to 22:00 (working person),201,284,124,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,20,1.675,24
+LMD1042,22,06:00 to 18:00 (Collect at work place),245,101,200,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,6,2.0416666666666665,24
+LMD1043,43,06:00 to 21:00 (Home),238,177,87,20:00 to 21:00,H1N1,Swab,Disposable plastic container,10,1.9833333333333334,24
+VV1045,17,19:00 to 22:00 (working person),652,800,982,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,7,5.433333333333334,34
+VV1046,27,06:00 to 18:00 (Collect at work place),1639,2027,411,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,13.658333333333335,24
+VV1047,19,06:00 to 21:00 (Home),839,865,91,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,8,6.991666666666667,24
+VV1048,40,19:00 to 22:00 (working person),792,824,71,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,6.6000000000000005,24
+VV1049,12,06:00 to 18:00 (Collect at work place),1239,1131,181,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,13,10.325,24
+MFD1050,17,19:00 to 22:00 (working person),1611,1488,144,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,16,13.425,24
+MFD1051,26,06:00 to 18:00 (Collect at work place),1713,1713,75,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,18,14.275,24
+MFD1052,23,06:00 to 21:00 (Home),438,383,83,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,9,3.65,24
+MFD1053,25,19:00 to 22:00 (working person),608,523,104,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,12,5.066666666666666,24
+MFD1054,34,06:00 to 18:00 (Collect at work place),1641,1593,135,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,14,13.674999999999999,24
+TS1048,37,06:00 to 21:00 (Home),894,420,592,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,10,7.45,34
+TS1049,35,06:00 to 21:00 (Home),1064,1036,39,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,14,8.866666666666667,24
+TS1050,48,19:00 to 22:00 (working person),1067,1064,51,21:00 to 22:00,H1N1,Swab,Disposable plastic container,19,8.891666666666666,24
+TS1051,13,06:00 to 18:00 (Collect at work place),1007,1031,30,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,8,8.391666666666667,24
+TS1052,38,19:00 to 22:00 (working person),1306,1275,41,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,10.883333333333333,24
+PDC1045,49,06:00 to 18:00 (Collect at work place),202,171,35,09:00 to 10:00,CBC,Blood,Vaccum blood collection tube,5,1.6833333333333333,24
+PDC1046,20,06:00 to 21:00 (Home),163,95,74,13:00 to 14:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,1.3583333333333334,24
+PDC1047,33,19:00 to 22:00 (working person),98,94,46,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,15,0.8166666666666668,24
+PDC1048,50,06:00 to 18:00 (Collect at work place),187,253,68,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,6,1.5583333333333331,24
+PDC1049,35,06:00 to 21:00 (Home),90,95,31,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,13,0.75,24
+SSD1054,36,19:00 to 22:00 (working person),85,74,95,19:00 to 20:00,H1N1,Swab,Disposable plastic container,10,0.7083333333333333,24
+SSD1055,16,06:00 to 18:00 (Collect at work place),137,88,59,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,13,1.1416666666666666,24
+SSD1056,36,06:00 to 21:00 (Home),132,89,56,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,1.1,24
+SSD1057,50,19:00 to 22:00 (working person),404,310,169,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,20,3.3666666666666667,24
+SSD1058,18,06:00 to 18:00 (Collect at work place),649,689,80,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,18,5.408333333333334,24
+AD1049,35,19:00 to 22:00 (working person),3465,3245,360,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,7,28.875,24
+AD1050,36,06:00 to 18:00 (Collect at work place),3598,3620,104,16:00 to 17:00,H1N1,Swab,Disposable plastic container,12,29.983333333333334,24
+AD1051,30,06:00 to 21:00 (Home),3498,3609,111,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,17,29.15,24
+AD1052,34,19:00 to 22:00 (working person),3496,3523,52,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,29.133333333333336,24
+AD1053,38,06:00 to 18:00 (Collect at work place),3463,3529,67,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,8,28.858333333333334,24
+VD1045,12,06:00 to 21:00 (Home),137,57,109,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,1.1416666666666666,24
+VD1046,22,19:00 to 22:00 (working person),141,144,162,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,15,1.1749999999999998,24
+VD1047,47,06:00 to 18:00 (Collect at work place),141,108,214,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,5,1.1749999999999998,24
+VD1048,21,19:00 to 22:00 (working person),108,135,139,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,11,0.9000000000000001,24
+VD1049,30,06:00 to 18:00 (Collect at work place),73,115,182,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,9,0.6083333333333333,24
+DD1050,12,06:00 to 21:00 (Home),2277,2311,48,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,5,18.975,24
+DD1051,30,19:00 to 22:00 (working person),2318,2361,88,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,8,19.31666666666667,24
+DD1052,30,06:00 to 18:00 (Collect at work place),2643,2568,248,06:00 to 07:00,H1N1,Swab,Disposable plastic container,11,22.025000000000002,24
+DD1053,21,06:00 to 21:00 (Home),2493,2557,66,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,17,20.775000000000002,24
+DD1054,47,06:00 to 21:00 (Home),3210,3247,65,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,26.75,24
+MD1032,12,19:00 to 22:00 (working person),60,60,0,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,10,0.5,24
+MD1033,12,06:00 to 18:00 (Collect at work place),62,170,155,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,0.5166666666666666,24
+MD1034,33,19:00 to 22:00 (working person),1709,1697,130,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,16,14.241666666666667,24
+MD1035,50,06:00 to 18:00 (Collect at work place),108,142,90,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,19,0.9000000000000001,24
+MD1036,11,06:00 to 21:00 (Home),275,260,73,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,5,2.2916666666666665,24
+MD1037,35,19:00 to 22:00 (working person),124,1471,1590,20:00 to 21:00,H1N1,Swab,Disposable plastic container,13,1.0333333333333332,39
+MD1038,13,06:00 to 18:00 (Collect at work place),122,122,0,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,18,1.0166666666666666,24
+MD1039,20,06:00 to 21:00 (Home),88,1252,1197,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,0.7333333333333334,39
+VD1050,49,19:00 to 22:00 (working person),906,2648,1901,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,8,7.55,39
+VD1051,21,06:00 to 18:00 (Collect at work place),151,7409,7422,09:00 to 10:00,Lipid Profile,Blood,Vaccum blood collection tube,16,1.2583333333333333,49
+VD1052,29,06:00 to 21:00 (Home),151,6294,6249,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,9,1.2583333333333333,49
+AD1054,23,19:00 to 22:00 (working person),4160,4972,926,21:00 to 22:00,H1N1,Swab,Disposable plastic container,5,34.66666666666667,34
+AD1055,42,06:00 to 18:00 (Collect at work place),4125,5437,1341,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,20,34.375,39
+AD1056,14,19:00 to 22:00 (working person),4095,5257,1213,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,14,34.125,39
+LMD1044,48,06:00 to 18:00 (Collect at work place),9149,12294,3144,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,12,76.24166666666666,39
+LMD1045,20,06:00 to 21:00 (Home),9262,8728,2390,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,77.18333333333334,39
+LMD1046,33,19:00 to 22:00 (working person),9133,4977,4446,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,5,76.10833333333333,39
+LMD1047,34,06:00 to 18:00 (Collect at work place),9176,8041,3879,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,7,76.46666666666667,39
+LMD1048,46,06:00 to 21:00 (Home),9092,8605,3751,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,13,75.76666666666667,39
+VV1050,14,19:00 to 22:00 (working person),183,807,950,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,17,1.525,34
+VV1051,26,06:00 to 18:00 (Collect at work place),117,5225,5276,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,0.9749999999999999,49
+VV1052,48,19:00 to 22:00 (working person),172,3879,4040,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,20,1.4333333333333333,39
+VV1053,29,06:00 to 18:00 (Collect at work place),361,3487,3832,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,12,3.0083333333333333,39
+VV1054,44,06:00 to 21:00 (Home),201,7577,7647,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,8,1.675,49
+MFD1055,17,19:00 to 22:00 (working person),144,5736,5592,20:00 to 21:00,H1N1,Swab,Disposable plastic container,18,1.2000000000000002,49
+MFD1056,23,06:00 to 18:00 (Collect at work place),218,6346,6164,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,19,1.8166666666666667,49
+MFD1057,11,06:00 to 21:00 (Home),667,7031,6974,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,5.558333333333334,49
+MFD1058,37,06:00 to 21:00 (Home),590,3254,3717,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,15,4.916666666666666,39
+MFD1059,23,19:00 to 22:00 (working person),376,7325,6988,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,3.1333333333333337,49
+DD1055,36,06:00 to 18:00 (Collect at work place),882,57769,56999,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,10,7.35,64
+DD1056,49,19:00 to 22:00 (working person),1553,31082,31995,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,10,12.941666666666666,64
+DD1057,29,06:00 to 18:00 (Collect at work place),713,44579,44574,09:00 to 10:00,Complete Urinalysis,Urine,Urine culture transport tube,8,5.941666666666666,64
+DD1058,24,06:00 to 21:00 (Home),882,55451,54680,16:00 to 17:00,H1N1,Swab,Disposable plastic container,11,7.35,64
+DD1059,46,19:00 to 22:00 (working person),817,66791,67593,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,7,6.808333333333334,64
+MD1040,35,06:00 to 18:00 (Collect at work place),7,110,103,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,0.05833333333333333,24
+MD1041,44,06:00 to 21:00 (Home),47,37,78,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,20,0.3916666666666667,24
+MD1042,37,19:00 to 22:00 (working person),118,86,189,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,5,0.9833333333333334,24
+MD1043,22,06:00 to 18:00 (Collect at work place),198,296,329,11:00 to 12:00,Complete Urinalysis,Urine,Urine culture transport tube,9,1.6500000000000001,24
+MD1044,12,06:00 to 21:00 (Home),484,704,652,10:00 to 11:00,H1N1,Swab,Disposable plastic container,12,4.033333333333333,34
+MD1045,43,19:00 to 22:00 (working person),656,560,635,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,9,5.466666666666667,34
+MD1046,42,06:00 to 18:00 (Collect at work place),2329,1455,985,17:00 to 18:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,19.408333333333335,34
+MD1047,28,19:00 to 22:00 (working person),3054,2542,597,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,16,25.45,34
+MD1048,28,06:00 to 18:00 (Collect at work place),3743,3046,736,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,31.191666666666666,34
+MD1049,24,06:00 to 21:00 (Home),3738,3160,661,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,18,31.150000000000002,34
+MD1050,48,19:00 to 22:00 (working person),2972,5053,7547,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,19,24.766666666666666,49
+MD1051,12,06:00 to 18:00 (Collect at work place),1228,717,781,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,5,10.233333333333333,34
+MD1052,49,06:00 to 21:00 (Home),1267,712,981,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,10,10.558333333333334,34
+MD1053,12,19:00 to 22:00 (working person),5830,6618,1881,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,6,48.583333333333336,39
+MD1054,36,06:00 to 18:00 (Collect at work place),7508,7516,308,07:00 to 08:00,CBC,Blood,Vaccum blood collection tube,12,62.56666666666666,24
+MD1055,20,19:00 to 22:00 (working person),8172,8342,205,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,68.10000000000001,24
+MD1056,42,06:00 to 18:00 (Collect at work place),6638,6728,317,16:00 to 17:00,TSH,Blood,Vaccum blood collection tube,8,55.31666666666666,24
+MD1057,47,06:00 to 21:00 (Home),6564,7008,489,06:00 to 07:00,Lipid Profile,Blood,Vaccum blood collection tube,19,54.699999999999996,24
+MD1058,10,19:00 to 22:00 (working person),7599,7810,535,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,9,63.324999999999996,34
+MD1059,33,06:00 to 18:00 (Collect at work place),9834,10548,787,15:00 to 16:00,H1N1,Swab,Disposable plastic container,14,81.95,34
+MD1060,20,06:00 to 21:00 (Home),7974,7855,524,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,16,66.44999999999999,34
+MD1061,28,06:00 to 21:00 (Home),7965,8217,541,11:00 to 12:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,66.375,34
+MD1062,32,19:00 to 22:00 (working person),8936,9372,625,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,12,74.46666666666667,34
+MD1063,38,06:00 to 18:00 (Collect at work place),10480,10722,249,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,87.33333333333333,24
+MD1064,40,19:00 to 22:00 (working person),7764,8025,412,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,16,64.7,24
+MD1065,39,06:00 to 18:00 (Collect at work place),421,1867,1520,08:00 to 09:00,Lipid Profile,Blood,Vaccum blood collection tube,17,3.5083333333333333,39
+MD1066,50,06:00 to 21:00 (Home),5045,5421,376,12:00 to 13:00,Complete Urinalysis,Urine,Urine culture transport tube,11,42.041666666666664,24
+VD1053,32,19:00 to 22:00 (working person),797,610,665,20:00 to 21:00,H1N1,Swab,Disposable plastic container,12,6.641666666666667,34
+VD1054,22,06:00 to 18:00 (Collect at work place),423,224,224,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,10,3.525,24
+VD1055,27,06:00 to 21:00 (Home),238,312,143,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,1.9833333333333334,24
+VD1056,26,19:00 to 22:00 (working person),507,285,282,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,17,4.2250000000000005,24
+LMD1049,13,06:00 to 18:00 (Collect at work place),124,107,41,07:00 to 08:00,Lipid Profile,Blood,Vaccum blood collection tube,12,1.0333333333333332,24
+LMD1050,14,06:00 to 21:00 (Home),116,197,245,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,10,0.9666666666666667,24
+LMD1051,47,19:00 to 22:00 (working person),258,179,104,19:00 to 20:00,H1N1,Swab,Disposable plastic container,12,2.15,24
+LMD1052,33,06:00 to 18:00 (Collect at work place),201,240,96,06:00 to 07:00,RTPCR,Swab,Disposable plastic container,11,1.675,24
+LMD1053,19,19:00 to 22:00 (working person),447,388,505,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,3.725,34
+VV1055,38,06:00 to 18:00 (Collect at work place),884,740,419,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,17,7.366666666666667,24
+VV1056,20,06:00 to 21:00 (Home),437,465,56,18:00 to 19:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,3.641666666666667,24
+VV1057,32,19:00 to 22:00 (working person),318,503,192,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,7,2.6500000000000004,24
+VV1058,12,06:00 to 18:00 (Collect at work place),1279,1029,275,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,9,10.658333333333335,24
+VV1059,33,06:00 to 21:00 (Home),208,3785,3735,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,10,1.7333333333333334,39
+MFD1060,30,19:00 to 22:00 (working person),298,379,277,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,11,2.4833333333333334,24
+MFD1061,33,06:00 to 18:00 (Collect at work place),191,134,326,08:00 to 09:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,16,1.5916666666666668,24
+MFD1062,19,19:00 to 22:00 (working person),285,308,132,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,20,2.375,24
+MFD1063,44,06:00 to 18:00 (Collect at work place),503,258,286,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,15,4.191666666666666,24
+MFD1064,46,06:00 to 21:00 (Home),918,795,153,09:00 to 10:00,Complete Urinalysis,Urine,Urine culture transport tube,14,7.65,24
+DD1060,28,19:00 to 22:00 (working person),605,702,132,19:00 to 20:00,H1N1,Swab,Disposable plastic container,6,5.041666666666666,24
+DD1061,27,06:00 to 18:00 (Collect at work place),1274,1536,354,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,14,10.616666666666667,24
+DD1062,28,06:00 to 21:00 (Home),1265,1302,146,13:00 to 14:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,10.541666666666668,24
+DD1063,10,06:00 to 21:00 (Home),1633,1974,579,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,15,13.608333333333334,34
+DD1064,29,19:00 to 22:00 (working person),1655,1510,172,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,13.791666666666666,24
+TS1053,17,06:00 to 18:00 (Collect at work place),437,3755,3322,09:00 to 10:00,TSH,Blood,Vaccum blood collection tube,15,3.641666666666667,39
+TS1054,33,19:00 to 22:00 (working person),1729,652,1323,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,15,14.408333333333335,39
+TS1055,22,06:00 to 18:00 (Collect at work place),705,658,1211,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,9,5.875,39
+TS1056,33,06:00 to 21:00 (Home),652,1018,1013,20:00 to 21:00,H1N1,Swab,Disposable plastic container,13,5.433333333333334,39
+TS1057,15,19:00 to 22:00 (working person),1018,705,1183,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,18,8.483333333333333,39
+PDC1050,31,06:00 to 18:00 (Collect at work place),10015,506,9594,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,83.45833333333333,49
+PDC1051,14,06:00 to 21:00 (Home),705,705,0,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,15,5.875,24
+PDC1052,45,19:00 to 22:00 (working person),705,2516,1816,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,19,5.875,39
+PDC1053,15,06:00 to 18:00 (Collect at work place),2516,705,1816,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,8,20.96666666666667,39
+MD1067,11,06:00 to 21:00 (Home),7625,5484,2376,17:00 to 18:00,H1N1,Swab,Disposable plastic container,11,63.54166666666667,39
+MD1068,40,19:00 to 22:00 (working person),2476,5483,6430,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,20,20.633333333333333,49
+MD1069,18,06:00 to 18:00 (Collect at work place),1790,5481,7209,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,14.916666666666668,49
+MD1070,16,19:00 to 22:00 (working person),2365,5495,7706,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,17,19.708333333333336,49
+MD1071,18,06:00 to 18:00 (Collect at work place),2113,5533,7442,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,14,17.608333333333334,49
+VD1057,14,06:00 to 21:00 (Home),896,872,608,18:00 to 19:00,TSH,Blood,Vaccum blood collection tube,6,7.466666666666666,34
+VD1058,46,19:00 to 22:00 (working person),1670,13763,12173,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,18,13.916666666666666,54
+VD1059,25,06:00 to 18:00 (Collect at work place),1966,13719,13735,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,9,16.383333333333333,54
+VD1060,24,06:00 to 21:00 (Home),322,13736,14018,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,15,2.6833333333333336,54
+VD1061,10,19:00 to 22:00 (working person),2712,13779,13495,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,17,22.599999999999998,54
+AD1057,30,06:00 to 18:00 (Collect at work place),2958,14333,14894,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,7,24.650000000000002,54
+AD1058,27,19:00 to 22:00 (working person),4906,14333,18136,20:00 to 21:00,H1N1,Swab,Disposable plastic container,5,40.88333333333334,64
+AD1059,19,06:00 to 18:00 (Collect at work place),1327,6962,6731,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,7,11.058333333333332,49
+AD1060,29,06:00 to 21:00 (Home),3597,7004,10596,18:00 to 19:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,29.975,54
+AD1061,37,19:00 to 22:00 (working person),1046,6990,7674,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,17,8.716666666666665,49
+LMD1054,36,06:00 to 18:00 (Collect at work place),312,37,334,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,2.6,24
+LMD1055,16,06:00 to 21:00 (Home),2172,0,2172,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,11,18.099999999999998,39
+LMD1056,21,06:00 to 21:00 (Home),1792,89,1867,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,17,14.933333333333332,39
+LMD1057,17,19:00 to 22:00 (working person),1806,8141,9523,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,12,15.049999999999999,49
+LMD1058,28,06:00 to 18:00 (Collect at work place),1731,8110,9793,12:00 to 13:00,H1N1,Swab,Disposable plastic container,19,14.424999999999999,49
+VV1060,14,19:00 to 22:00 (working person),2464,5431,7129,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,20,20.53333333333333,49
+VV1061,32,06:00 to 18:00 (Collect at work place),1864,5503,7258,09:00 to 10:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,15.533333333333335,49
+VV1062,38,06:00 to 21:00 (Home),2387,5487,7680,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,8,19.891666666666666,49
+VV1063,22,19:00 to 22:00 (working person),1295,5482,6647,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,6,10.791666666666666,49
+VV1064,13,06:00 to 18:00 (Collect at work place),2575,2585,3091,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,19,21.458333333333336,39
+MFD1065,25,06:00 to 21:00 (Home),2497,7109,8438,13:00 to 14:00,H1N1,Swab,Disposable plastic container,17,20.80833333333333,49
+MFD1066,18,19:00 to 22:00 (working person),2834,7143,9397,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,19,23.616666666666664,49
+MFD1067,45,06:00 to 18:00 (Collect at work place),1742,7110,5560,17:00 to 18:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,14.516666666666666,49
+MFD1068,29,06:00 to 21:00 (Home),3380,7122,7029,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,8,28.166666666666668,49
+MFD1069,20,19:00 to 22:00 (working person),4385,7145,11519,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,36.54166666666667,54
+DD1065,18,06:00 to 18:00 (Collect at work place),3103,5843,4851,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,19,25.858333333333334,39
+DD1066,11,19:00 to 22:00 (working person),823,5844,5159,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,18,6.8583333333333325,49
+DD1067,18,06:00 to 18:00 (Collect at work place),1611,5865,4253,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,14,13.425,39
+DD1068,23,06:00 to 21:00 (Home),2479,5893,4978,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,12,20.658333333333335,39
+DD1069,39,19:00 to 22:00 (working person),2929,5887,3888,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,24.40833333333333,39
+TS1058,20,06:00 to 18:00 (Collect at work place),1471,17255,18360,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,19,12.258333333333333,64
+TS1059,19,06:00 to 21:00 (Home),1088,21,1106,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,15,9.066666666666666,39
+TS1060,14,19:00 to 22:00 (working person),989,38,1026,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,12,8.241666666666667,39
+TS1061,40,06:00 to 18:00 (Collect at work place),717,14,720,12:00 to 13:00,H1N1,Swab,Disposable plastic container,5,5.9750000000000005,34
+TS1062,33,19:00 to 22:00 (working person),487,32,496,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,5,4.058333333333334,24
+PDC1054,21,06:00 to 18:00 (Collect at work place),4947,9884,5066,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,41.224999999999994,49
+PDC1055,13,06:00 to 21:00 (Home),5526,9885,9327,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,46.050000000000004,49
+PDC1056,43,19:00 to 22:00 (working person),5011,3571,6596,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,14,41.75833333333333,49
+PDC1057,49,06:00 to 18:00 (Collect at work place),5222,3562,3115,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,18,43.51666666666667,39
+PDC1058,49,06:00 to 21:00 (Home),4029,3566,4288,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,18,33.575,39
+SSD1059,22,06:00 to 21:00 (Home),759,9956,9325,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,5,6.325000000000001,49
+SSD1060,38,19:00 to 22:00 (working person),311,9940,9945,19:00 to 20:00,H1N1,Swab,Disposable plastic container,13,2.591666666666667,49
+SSD1061,23,06:00 to 18:00 (Collect at work place),404,9948,10167,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,16,3.3666666666666667,54
+SSD1062,43,19:00 to 22:00 (working person),1421,6794,7799,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,11.841666666666665,49
+SSD1063,26,06:00 to 18:00 (Collect at work place),269,6796,6554,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,5,2.2416666666666667,49
+LMD1059,35,06:00 to 21:00 (Home),11997,9125,19668,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,17,99.97500000000001,64
+LMD1060,13,19:00 to 22:00 (working person),12014,9417,20044,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,7,100.11666666666667,64
+MFD1070,10,06:00 to 18:00 (Collect at work place),314,8025,7761,17:00 to 18:00,H1N1,Swab,Disposable plastic container,19,2.6166666666666667,49
+MFD1071,46,06:00 to 21:00 (Home),269,7680,7630,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,5,2.2416666666666667,49
+MFD1072,32,19:00 to 22:00 (working person),267,2301,2441,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,2.225,39
+MFD1073,42,06:00 to 18:00 (Collect at work place),439,4773,4659,12:00 to 13:00,CBC,Blood,Vaccum blood collection tube,19,3.658333333333333,39
+SSD1064,14,06:00 to 21:00 (Home),1386,966,423,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,11.55,24
+SSD1065,16,19:00 to 22:00 (working person),857,850,531,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,5,7.1416666666666675,34
+SSD1066,33,06:00 to 18:00 (Collect at work place),1555,1676,566,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,16,12.958333333333334,34
+AD1062,25,19:00 to 22:00 (working person),1634,3587,5218,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,8,13.616666666666667,49
+AD1063,24,06:00 to 18:00 (Collect at work place),355,4517,4866,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,8,2.9583333333333335,39
+MD1072,43,06:00 to 21:00 (Home),7599,7807,522,13:00 to 14:00,HbA1c,Blood,Vaccum blood collection tube,10,63.324999999999996,34
+MD1073,42,19:00 to 22:00 (working person),9834,10548,787,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,17,81.95,34
+AD1064,24,06:00 to 18:00 (Collect at work place),4852,3052,7726,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,40.43333333333333,49
+AD1065,43,06:00 to 21:00 (Home),950,2216,1963,16:00 to 17:00,TSH,Blood,Vaccum blood collection tube,5,7.916666666666666,39
+MD1074,48,19:00 to 22:00 (working person),3738,3010,750,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,11,31.150000000000002,34
+VD1062,34,06:00 to 18:00 (Collect at work place),797,610,665,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,7,6.641666666666667,34
+VD1063,18,19:00 to 22:00 (working person),856,230,689,21:00 to 22:00,H1N1,Swab,Disposable plastic container,13,7.133333333333333,34
+MFD1074,34,06:00 to 18:00 (Collect at work place),688,3695,3694,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,8,5.733333333333333,39
+MFD1075,29,06:00 to 21:00 (Home),802,3695,2909,11:00 to 12:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,6.683333333333334,39
+LMD1061,35,19:00 to 22:00 (working person),320,8828,8753,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,5,2.6666666666666665,49
+LMD1062,47,06:00 to 18:00 (Collect at work place),244,9204,9050,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,2.033333333333333,49
+LMD1063,29,06:00 to 21:00 (Home),401,9417,9139,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,3.341666666666667,49
+LMD1064,46,06:00 to 21:00 (Home),699,11834,11167,08:00 to 09:00,Lipid Profile,Blood,Vaccum blood collection tube,17,5.825,54
+MD1075,31,19:00 to 22:00 (working person),7,110,103,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,20,0.05833333333333333,24
+MD1076,19,06:00 to 18:00 (Collect at work place),5830,37,5802,14:00 to 15:00,H1N1,Swab,Disposable plastic container,5,48.583333333333336,49
+MD1077,21,19:00 to 22:00 (working person),7508,85,7518,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,13,62.56666666666666,49
+SSD1067,24,06:00 to 18:00 (Collect at work place),8381,13545,6746,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,69.84166666666667,49
+SSD1068,29,06:00 to 21:00 (Home),8561,13095,8138,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,18,71.34166666666667,49
+SSD1069,38,19:00 to 22:00 (working person),498,9892,9581,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,16,4.1499999999999995,49
+SSD1070,14,06:00 to 18:00 (Collect at work place),275,9935,10210,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,5,2.2916666666666665,54
+AD1066,37,06:00 to 21:00 (Home),1697,7899,9425,16:00 to 17:00,H1N1,Swab,Disposable plastic container,19,14.141666666666666,49
+AD1067,37,19:00 to 22:00 (working person),327,3477,3679,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,19,2.725,39
+MD1078,43,06:00 to 18:00 (Collect at work place),7974,8217,852,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,66.44999999999999,34
+MD1079,28,06:00 to 21:00 (Home),10480,9372,1115,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,11,87.33333333333333,39
+VD1064,22,19:00 to 22:00 (working person),698,39,736,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,5.816666666666666,34
+VD1065,10,06:00 to 18:00 (Collect at work place),2102,0,2102,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,20,17.516666666666666,39
+VD1066,36,19:00 to 22:00 (working person),1597,0,1597,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,7,13.308333333333334,39
+DD1070,45,06:00 to 18:00 (Collect at work place),487,15543,15177,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,9,4.058333333333334,64
+DD1071,33,06:00 to 21:00 (Home),706,11354,11987,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,8,5.883333333333333,54
+DD1072,27,19:00 to 22:00 (working person),201,22478,22674,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,1.675,64
+SSD1071,23,06:00 to 18:00 (Collect at work place),119,7126,7193,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,19,0.9916666666666667,49
+SSD1072,36,06:00 to 21:00 (Home),335,19843,20041,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,12,2.791666666666667,64
+AD1068,33,19:00 to 22:00 (working person),1684,3519,4775,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,8,14.033333333333333,39
+AD1069,13,06:00 to 18:00 (Collect at work place),317,3694,3400,15:00 to 16:00,H1N1,Swab,Disposable plastic container,14,2.6416666666666666,39
+AD1070,14,19:00 to 22:00 (working person),652,3262,2610,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,19,5.433333333333334,39
+DD1073,31,06:00 to 18:00 (Collect at work place),645,15574,16143,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,5.375,64
+TS1063,36,06:00 to 21:00 (Home),349,7942,8288,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,16,2.908333333333333,49
+TS1064,46,19:00 to 22:00 (working person),399,2416,2017,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,3.3249999999999997,39
+TS1065,40,06:00 to 18:00 (Collect at work place),280,2442,2207,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,18,2.3333333333333335,39
+TS1066,26,06:00 to 21:00 (Home),501,4806,4859,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,20,4.175000000000001,39
+MD1080,16,06:00 to 21:00 (Home),1172,7625,8795,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,9,9.766666666666667,49
+MD1081,11,19:00 to 22:00 (working person),2304,2476,354,21:00 to 22:00,H1N1,Swab,Disposable plastic container,18,19.200000000000003,24
+MD1082,44,06:00 to 18:00 (Collect at work place),1790,1861,1857,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,9,14.916666666666668,39
+MD1083,24,19:00 to 22:00 (working person),2373,2365,815,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,19.775,34
+MD1084,22,06:00 to 18:00 (Collect at work place),941,2113,1817,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,13,7.841666666666666,39
+VD1067,46,06:00 to 21:00 (Home),262,896,742,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,15,2.183333333333333,34
+VD1068,44,19:00 to 22:00 (working person),2642,1670,2915,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,14,22.016666666666666,39
+VD1069,13,06:00 to 18:00 (Collect at work place),1716,1966,282,12:00 to 13:00,H1N1,Swab,Disposable plastic container,8,14.299999999999999,24
+VD1070,39,06:00 to 21:00 (Home),36,322,309,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,17,0.30000000000000004,24
+VD1071,36,19:00 to 22:00 (working person),2205,2712,1617,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,18.375,39
+AD1071,27,06:00 to 18:00 (Collect at work place),4210,2958,3874,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,6,35.083333333333336,39
+AD1072,32,06:00 to 21:00 (Home),4317,4906,1169,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,16,35.974999999999994,39
+AD1073,24,19:00 to 22:00 (working person),2729,1327,1402,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,16,22.741666666666664,39
+AD1074,47,06:00 to 18:00 (Collect at work place),1990,3597,1652,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,14,16.583333333333336,39
+AD1075,36,19:00 to 22:00 (working person),5197,1046,4233,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,10,43.30833333333334,39
+LMD1065,10,06:00 to 18:00 (Collect at work place),1536,312,1400,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,16,12.8,39
+LMD1066,29,06:00 to 21:00 (Home),775,2172,2162,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,16,6.458333333333334,39
+LMD1067,26,19:00 to 22:00 (working person),2414,1792,976,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,13,20.116666666666667,34
+LMD1068,24,06:00 to 18:00 (Collect at work place),1219,1806,1884,14:00 to 15:00,H1N1,Swab,Disposable plastic container,16,10.158333333333333,39
+LMD1069,38,06:00 to 21:00 (Home),720,1731,2043,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,14,6.0,39
+VV1065,41,19:00 to 22:00 (working person),1598,2464,2300,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,13.316666666666668,39
+VV1066,48,06:00 to 18:00 (Collect at work place),3096,1864,2230,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,19,25.8,39
+VV1067,32,19:00 to 22:00 (working person),1146,2387,3527,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,9.549999999999999,39
+VV1068,12,06:00 to 18:00 (Collect at work place),1901,1295,2574,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,16,15.841666666666667,39
+VV1069,23,06:00 to 21:00 (Home),4060,2575,3894,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,20,33.833333333333336,39
+MFD1076,37,19:00 to 22:00 (working person),4646,2497,4186,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,6,38.71666666666667,39
+MFD1077,36,06:00 to 18:00 (Collect at work place),3931,2834,1774,12:00 to 13:00,H1N1,Swab,Disposable plastic container,14,32.75833333333333,39
+MFD1078,14,06:00 to 21:00 (Home),1040,1742,2683,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,7,8.666666666666668,39
+MFD1079,44,06:00 to 21:00 (Home),4702,3380,4134,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,39.18333333333334,39
+MFD1080,23,19:00 to 22:00 (working person),4385,4385,0,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,18,36.54166666666667,24
+DD1074,43,06:00 to 18:00 (Collect at work place),2992,3103,459,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,8,24.93333333333333,24
+DD1075,25,19:00 to 22:00 (working person),434,823,1235,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,5,3.6166666666666663,39
+DD1076,14,06:00 to 18:00 (Collect at work place),1611,1611,0,07:00 to 08:00,H1N1,Swab,Disposable plastic container,10,13.425,24
+DD1077,42,06:00 to 21:00 (Home),2717,2479,1171,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,8,22.641666666666666,39
+DD1078,15,19:00 to 22:00 (working person),2493,2929,2617,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,20.775000000000002,39
+TS1067,22,06:00 to 18:00 (Collect at work place),2382,1471,1321,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,14,19.849999999999998,39
+TS1068,27,06:00 to 21:00 (Home),989,1088,1110,15:00 to 16:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,8.241666666666667,39
+TS1069,13,19:00 to 22:00 (working person),1577,989,2174,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,14,13.141666666666666,39
+TS1070,15,06:00 to 18:00 (Collect at work place),1724,717,1036,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,15,14.366666666666667,39
+TS1071,15,06:00 to 21:00 (Home),1547,487,1859,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,18,12.891666666666666,39
+PDC1059,18,19:00 to 22:00 (working person),4281,4947,3503,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,17,35.675000000000004,39
+PDC1060,25,06:00 to 18:00 (Collect at work place),494,5526,5525,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,4.116666666666667,49
+PDC1061,42,19:00 to 22:00 (working person),6355,5011,2691,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,12,52.958333333333336,39
+PDC1062,42,06:00 to 18:00 (Collect at work place),3242,5222,2272,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,15,27.016666666666666,39
+PDC1063,34,06:00 to 21:00 (Home),3250,4029,4017,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,16,27.083333333333336,39
+SSD1073,16,19:00 to 22:00 (working person),1292,759,1659,19:00 to 20:00,H1N1,Swab,Disposable plastic container,19,10.766666666666666,39
+SSD1074,23,06:00 to 18:00 (Collect at work place),1739,311,1837,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,19,14.491666666666667,39
+SSD1075,39,06:00 to 21:00 (Home),1096,404,798,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,9.133333333333333,34
+SSD1076,49,19:00 to 22:00 (working person),2197,1421,809,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,5,18.308333333333334,34
+SSD1077,19,06:00 to 18:00 (Collect at work place),902,269,770,13:00 to 14:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,7.5166666666666675,34
+VD1072,14,19:00 to 22:00 (working person),2579,2625,216,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,19,21.491666666666664,24
+VD1073,36,06:00 to 18:00 (Collect at work place),8045,8723,1978,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,6,67.04166666666667,39
+VD1074,27,06:00 to 21:00 (Home),3728,3792,225,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,15,31.06666666666667,24
+VD1075,38,19:00 to 22:00 (working person),15153,13890,1491,20:00 to 21:00,H1N1,Swab,Disposable plastic container,9,126.27499999999999,39
+VD1076,21,06:00 to 18:00 (Collect at work place),8481,8177,400,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,19,70.675,24
+AD1076,28,06:00 to 21:00 (Home),4291,4276,591,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,35.75833333333334,34
+AD1077,32,06:00 to 21:00 (Home),4188,4367,342,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,7,34.900000000000006,24
+AD1078,49,19:00 to 22:00 (working person),12005,11656,359,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,15,100.04166666666666,24
+AD1079,38,06:00 to 18:00 (Collect at work place),6602,7504,1096,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,11,55.016666666666666,39
+AD1080,37,19:00 to 22:00 (working person),23083,23295,333,19:00 to 20:00,H1N1,Swab,Disposable plastic container,14,192.35833333333335,24
+LMD1070,32,06:00 to 18:00 (Collect at work place),13599,13881,394,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,10,113.32500000000002,24
+LMD1071,42,06:00 to 21:00 (Home),1300,998,1859,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,10.833333333333332,39
+LMD1072,12,19:00 to 22:00 (working person),3652,3305,728,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,15,30.433333333333334,34
+LMD1073,44,06:00 to 18:00 (Collect at work place),5250,7263,2027,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10,43.75,39
+LMD1074,34,06:00 to 21:00 (Home),5725,6571,1277,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,16,47.70833333333333,39
+MFD1081,24,19:00 to 22:00 (working person),4964,7637,2822,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,6,41.36666666666667,39
+MFD1082,25,06:00 to 18:00 (Collect at work place),4224,8028,3875,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,19,35.2,39
+MFD1083,19,06:00 to 21:00 (Home),8783,10461,1773,07:00 to 08:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,73.19166666666666,39
+MFD1084,42,19:00 to 22:00 (working person),8425,5381,3512,20:00 to 21:00,HbA1c,Blood,Vaccum blood collection tube,7,70.20833333333333,39
+TS1072,46,06:00 to 18:00 (Collect at work place),16468,14590,2144,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,13,137.23333333333332,39
+DD1079,17,19:00 to 22:00 (working person),11938,12848,2434,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,99.48333333333332,39
+DD1080,25,06:00 to 18:00 (Collect at work place),10192,10711,1417,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,14,84.93333333333334,39
+DD1081,24,06:00 to 21:00 (Home),12434,12065,1855,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,7,103.61666666666667,39
+DD1082,19,19:00 to 22:00 (working person),8996,10247,2163,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,19,74.96666666666667,39
+DD1083,32,06:00 to 18:00 (Collect at work place),7685,7117,1473,11:00 to 12:00,H1N1,Swab,Disposable plastic container,7,64.04166666666667,39
+TS1073,50,06:00 to 21:00 (Home),10689,8909,1785,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,14,89.075,39
+TS1074,24,19:00 to 22:00 (working person),7856,9191,1338,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,65.46666666666667,39
+TS1075,19,06:00 to 18:00 (Collect at work place),20101,19101,1320,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,16,167.50833333333333,39
+TS1076,35,19:00 to 22:00 (working person),2173,1585,3609,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,18.108333333333334,39
+PDC1064,22,06:00 to 18:00 (Collect at work place),6417,6548,783,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,14,53.475,34
+PDC1065,12,06:00 to 21:00 (Home),9309,9283,152,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,14,77.57499999999999,24
+PDC1066,49,19:00 to 22:00 (working person),9785,8998,786,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,20,81.54166666666667,34
+PDC1067,28,06:00 to 18:00 (Collect at work place),10610,12040,2211,14:00 to 15:00,H1N1,Swab,Disposable plastic container,18,88.41666666666667,39
+PDC1068,23,06:00 to 21:00 (Home),3985,6425,2594,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,13,33.208333333333336,39
+PDC1069,31,06:00 to 21:00 (Home),6918,15981,9796,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,57.65,49
+SSD1078,14,19:00 to 22:00 (working person),17078,17616,569,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,20,142.31666666666666,34
+SSD1079,32,06:00 to 18:00 (Collect at work place),16348,16954,1346,07:00 to 08:00,Lipid Profile,Blood,Vaccum blood collection tube,7,136.23333333333332,39
+SSD1080,25,19:00 to 22:00 (working person),9103,10079,1573,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,13,75.85833333333332,39
+SSD1081,33,06:00 to 18:00 (Collect at work place),16703,9774,7281,16:00 to 17:00,H1N1,Swab,Disposable plastic container,10,139.19166666666666,49
+SSD1082,29,06:00 to 21:00 (Home),17024,17415,413,06:00 to 07:00,RTPCR,Swab,Disposable plastic container,13,141.86666666666667,24
+SSD1083,44,19:00 to 22:00 (working person),17069,13563,3834,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,142.24166666666667,39
+MD1090,15,06:00 to 18:00 (Collect at work place),6859,6218,964,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,17,57.15833333333333,34
+MD1091,23,06:00 to 21:00 (Home),8072,6524,6209,18:00 to 19:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,67.26666666666668,49
+MD1092,16,19:00 to 22:00 (working person),6295,7013,760,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,19,52.458333333333336,34
+MD1093,40,06:00 to 18:00 (Collect at work place),3060,3165,722,10:00 to 11:00,Lipid Profile,Blood,Vaccum blood collection tube,18,25.5,34
+MD1094,23,06:00 to 21:00 (Home),15827,14637,2507,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,18,131.89166666666668,39
+MD1095,16,19:00 to 22:00 (working person),5276,6805,1537,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,11,43.96666666666667,39
+MD1096,19,06:00 to 18:00 (Collect at work place),6567,7068,1460,08:00 to 09:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,54.725,39
+MD1097,21,19:00 to 22:00 (working person),2310,14186,13700,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,10,19.25,54
+MD1098,30,06:00 to 18:00 (Collect at work place),1201,382,1583,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,10,10.008333333333333,39
+MD1099,24,06:00 to 21:00 (Home),2611,703,2006,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,17,21.758333333333336,39
+MD1100,23,19:00 to 22:00 (working person),3093,605,2633,21:00 to 22:00,H1N1,Swab,Disposable plastic container,20,25.775000000000002,39
+MD1101,17,06:00 to 18:00 (Collect at work place),1478,1433,1542,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,6,12.316666666666666,39
+MD1102,24,06:00 to 21:00 (Home),2037,1344,796,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,16.975,34
+VD1077,39,19:00 to 22:00 (working person),1837,2709,1288,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,8,15.308333333333334,39
+VD1078,13,06:00 to 18:00 (Collect at work place),568,2776,2786,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,4.733333333333333,39
+VD1079,22,19:00 to 22:00 (working person),2081,538,2619,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,19,17.341666666666665,39
+VD1080,29,06:00 to 18:00 (Collect at work place),2878,3943,2111,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,10,23.983333333333334,39
+VD1081,30,06:00 to 21:00 (Home),1516,2133,2814,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,9,12.633333333333333,39
+AD1081,27,19:00 to 22:00 (working person),2263,3587,1371,21:00 to 22:00,H1N1,Swab,Disposable plastic container,8,18.858333333333334,39
+AD1082,12,06:00 to 18:00 (Collect at work place),3547,4517,1351,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,17,29.55833333333333,39
+AD1083,33,06:00 to 21:00 (Home),2438,3052,958,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,20.316666666666666,34
+AD1084,29,06:00 to 21:00 (Home),2108,2216,241,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,15,17.56666666666667,24
+LMD1075,29,19:00 to 22:00 (working person),1717,51,1701,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,18,14.308333333333332,39
+LMD1076,50,06:00 to 18:00 (Collect at work place),1924,2014,644,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,17,16.03333333333333,34
+LMD1077,47,19:00 to 22:00 (working person),1824,1721,370,19:00 to 20:00,H1N1,Swab,Disposable plastic container,8,15.2,24
+LMD1078,32,06:00 to 18:00 (Collect at work place),873,1910,1061,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,20,7.2749999999999995,39
+VV1070,32,06:00 to 21:00 (Home),507,1177,951,09:00 to 10:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,4.2250000000000005,34
+VV1071,39,19:00 to 22:00 (working person),370,550,609,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,11,3.0833333333333335,34
+VV1072,33,06:00 to 18:00 (Collect at work place),2831,2585,1275,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,23.59166666666667,39
+VV1073,25,06:00 to 21:00 (Home),667,974,1071,17:00 to 18:00,TSH,Blood,Vaccum blood collection tube,7,5.558333333333334,39
+MFD1085,12,19:00 to 22:00 (working person),3893,4336,881,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,20,32.44166666666666,34
+MFD1086,12,06:00 to 18:00 (Collect at work place),3391,3254,651,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,13,28.258333333333336,34
+MFD1087,13,06:00 to 21:00 (Home),2116,1796,467,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,12,17.633333333333333,24
+MFD1088,33,19:00 to 22:00 (working person),3291,3708,490,20:00 to 21:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,27.425,24
+DD1084,42,06:00 to 18:00 (Collect at work place),2078,1649,1496,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,5,17.316666666666666,39
+DD1085,46,19:00 to 22:00 (working person),2550,3334,867,20:00 to 21:00,H1N1,Swab,Disposable plastic container,16,21.25,34
+DD1086,48,06:00 to 18:00 (Collect at work place),1526,2510,992,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,12,12.716666666666667,34
+DD1087,20,06:00 to 21:00 (Home),864,494,958,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,7.200000000000001,34
+TS1077,44,19:00 to 22:00 (working person),1215,1655,468,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,16,10.125,24
+TS1078,31,06:00 to 18:00 (Collect at work place),969,845,778,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,8.075,34
+TS1079,34,06:00 to 21:00 (Home),998,1243,1014,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,6,8.316666666666666,39
+TS1080,33,19:00 to 22:00 (working person),2451,1327,1137,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,11,20.425,39
+PDC1070,35,06:00 to 18:00 (Collect at work place),5039,5142,392,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,19,41.99166666666667,24
+PDC1071,38,19:00 to 22:00 (working person),3105,4053,1552,19:00 to 20:00,H1N1,Swab,Disposable plastic container,17,25.875,39
+PDC1072,31,06:00 to 18:00 (Collect at work place),5314,5250,658,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,15,44.28333333333333,34
+PDC1073,44,06:00 to 21:00 (Home),3000,3402,753,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,25.0,34
+SSD1084,34,19:00 to 22:00 (working person),1386,967,423,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,20,11.55,24
+SSD1085,35,06:00 to 18:00 (Collect at work place),857,850,531,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,9,7.1416666666666675,34
+SSD1086,24,06:00 to 21:00 (Home),1555,1676,566,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,10,12.958333333333334,34
+SSD1087,33,06:00 to 21:00 (Home),1015,954,1194,20:00 to 21:00,H1N1,Swab,Disposable plastic container,15,8.458333333333334,39
+MD1103,37,19:00 to 22:00 (working person),469,350,669,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,13,3.908333333333333,34
+MD1104,22,06:00 to 18:00 (Collect at work place),704,523,357,06:00 to 07:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,5.866666666666667,24
+MD1105,13,19:00 to 22:00 (working person),303,679,938,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,5,2.525,34
+MD1106,14,06:00 to 18:00 (Collect at work place),691,557,680,15:00 to 16:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,15,5.758333333333333,34
+MD1107,10,06:00 to 21:00 (Home),676,1245,964,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,5,5.633333333333333,34
+VD1082,42,19:00 to 22:00 (working person),115,684,798,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,7,0.9583333333333334,34
+VD1083,30,06:00 to 18:00 (Collect at work place),1784,1886,117,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,18,14.866666666666667,24
+VD1084,28,06:00 to 21:00 (Home),1917,1900,244,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,12,15.975,24
+VD1085,12,19:00 to 22:00 (working person),858,941,83,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,7.1499999999999995,24
+VD1086,23,06:00 to 18:00 (Collect at work place),1010,1385,439,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,13,8.416666666666666,24
+AD1085,22,06:00 to 21:00 (Home),1275,699,745,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,20,10.625,34
+AD1086,12,19:00 to 22:00 (working person),1192,863,870,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,6,9.933333333333334,34
+AD1087,43,06:00 to 18:00 (Collect at work place),2096,3097,1579,09:00 to 10:00,H1N1,Swab,Disposable plastic container,8,17.466666666666665,39
+AD1088,28,19:00 to 22:00 (working person),1896,2701,823,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,10,15.799999999999999,34
+AD1089,30,06:00 to 18:00 (Collect at work place),1188,310,1499,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,9.9,39
+LMD1079,20,06:00 to 21:00 (Home),1705,1292,658,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,18,14.208333333333334,34
+LMD1080,19,19:00 to 22:00 (working person),964,630,399,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,8.033333333333333,24
+LMD1081,26,06:00 to 18:00 (Collect at work place),1380,1260,183,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,13,11.5,24
+LMD1082,49,06:00 to 21:00 (Home),152,503,436,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,14,1.2666666666666666,24
+LMD1083,30,19:00 to 22:00 (working person),1240,1030,349,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,14,10.333333333333334,24
+VV1074,28,06:00 to 18:00 (Collect at work place),3725,3548,464,06:00 to 07:00,H1N1,Swab,Disposable plastic container,6,31.041666666666664,24
+VV1075,40,19:00 to 22:00 (working person),5503,3644,1997,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,17,45.85833333333333,39
+VV1076,47,06:00 to 18:00 (Collect at work place),1976,2065,966,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,16.46666666666667,34
+VV1077,46,06:00 to 21:00 (Home),847,905,268,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,14,7.058333333333334,24
+VV1078,27,19:00 to 22:00 (working person),2990,2690,479,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,18,24.916666666666668,24
+MFD1089,46,06:00 to 18:00 (Collect at work place),767,597,364,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,18,6.391666666666667,24
+MFD1090,50,06:00 to 21:00 (Home),1747,1135,679,19:00 to 20:00,H1N1,Swab,Disposable plastic container,5,14.558333333333334,34
+MFD1091,15,06:00 to 21:00 (Home),1383,1023,511,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,16,11.525,34
+MFD1092,49,19:00 to 22:00 (working person),839,1277,682,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,6.991666666666667,34
+MFD1093,16,06:00 to 18:00 (Collect at work place),1459,1265,605,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,12.158333333333333,34
+DD1088,24,19:00 to 22:00 (working person),996,540,470,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,8.299999999999999,24
+DD1089,31,06:00 to 18:00 (Collect at work place),1119,853,277,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,15,9.325,24
+DD1090,48,06:00 to 21:00 (Home),731,946,216,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,5,6.091666666666667,24
+DD1091,47,19:00 to 22:00 (working person),805,1286,481,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,13,6.708333333333333,24
+DD1092,30,06:00 to 18:00 (Collect at work place),918,1679,776,07:00 to 08:00,H1N1,Swab,Disposable plastic container,20,7.65,34
+TS1081,36,06:00 to 21:00 (Home),528,316,485,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,7,4.4,24
+TS1082,46,19:00 to 22:00 (working person),653,960,800,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,5.441666666666666,34
+TS1083,48,06:00 to 18:00 (Collect at work place),323,544,793,06:00 to 07:00,CBC,Blood,Vaccum blood collection tube,5,2.6916666666666664,34
+TS1084,40,06:00 to 21:00 (Home),1336,1259,791,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,11.133333333333333,34
+TS1085,15,19:00 to 22:00 (working person),1801,2032,677,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,16,15.008333333333333,34
+PDC1074,10,06:00 to 18:00 (Collect at work place),1630,884,939,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,11,13.583333333333334,34
+PDC1075,20,19:00 to 22:00 (working person),1538,2178,643,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,17,12.816666666666666,34
+PDC1076,30,06:00 to 18:00 (Collect at work place),2602,1846,874,10:00 to 11:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,21.683333333333334,34
+PDC1077,49,06:00 to 21:00 (Home),1842,2045,406,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,15,15.35,24
+PDC1078,39,19:00 to 22:00 (working person),2832,2272,606,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,15,23.599999999999998,34
+SSD1088,28,06:00 to 18:00 (Collect at work place),1028,432,805,08:00 to 09:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,8.566666666666666,34
+SSD1089,42,06:00 to 21:00 (Home),1130,1070,374,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,17,9.416666666666666,24
+SSD1090,30,19:00 to 22:00 (working person),1445,1249,470,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,8,12.041666666666666,24
+SSD1091,21,06:00 to 18:00 (Collect at work place),1569,2047,531,09:00 to 10:00,Complete Urinalysis,Urine,Urine culture transport tube,18,13.075000000000001,34
+SSD1092,37,19:00 to 22:00 (working person),1699,1420,332,19:00 to 20:00,H1N1,Swab,Disposable plastic container,12,14.158333333333333,24
+MD1108,22,06:00 to 18:00 (Collect at work place),9566,9890,1167,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,19,79.71666666666667,39
+MD1109,40,06:00 to 21:00 (Home),10141,8403,2022,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,84.50833333333334,39
+MD1110,37,19:00 to 22:00 (working person),12017,10943,1315,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,17,100.14166666666667,39
+MD1111,12,06:00 to 18:00 (Collect at work place),10632,13143,3203,07:00 to 08:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,88.60000000000001,39
+MD1112,33,06:00 to 21:00 (Home),11746,10212,2194,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,11,97.88333333333333,39
+VD1087,43,06:00 to 21:00 (Home),1654,3272,1816,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,6,13.783333333333335,39
+VD1088,34,19:00 to 22:00 (working person),4498,3975,1258,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,6,37.483333333333334,39
+VD1089,40,06:00 to 18:00 (Collect at work place),10315,11783,1656,12:00 to 13:00,H1N1,Swab,Disposable plastic container,18,85.95833333333333,39
+VD1090,11,19:00 to 22:00 (working person),8844,11996,3275,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,10,73.7,39
+VD1091,43,06:00 to 18:00 (Collect at work place),8363,5509,2936,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,69.69166666666666,39
+AD1090,40,06:00 to 21:00 (Home),5151,4938,341,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,13,42.925000000000004,24
+AD1091,28,19:00 to 22:00 (working person),5108,5130,32,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,9,42.56666666666667,24
+AD1092,34,06:00 to 18:00 (Collect at work place),3222,3407,266,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,7,26.85,24
+AD1093,44,06:00 to 21:00 (Home),4268,4520,275,17:00 to 18:00,H1N1,Swab,Disposable plastic container,15,35.56666666666666,24
+LMD1084,28,19:00 to 22:00 (working person),9037,9088,136,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,8,75.30833333333334,24
+LMD1085,25,06:00 to 18:00 (Collect at work place),8419,8358,191,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,70.15833333333333,24
+LMD1086,14,06:00 to 21:00 (Home),9043,9043,69,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,16,75.35833333333332,24
+LMD1087,45,19:00 to 22:00 (working person),8218,7991,237,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,68.48333333333332,24
+VV1079,11,06:00 to 18:00 (Collect at work place),2363,2448,677,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,9,19.691666666666666,34
+VV1080,25,19:00 to 22:00 (working person),2642,3803,1439,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,20,22.016666666666666,39
+VV1081,27,06:00 to 18:00 (Collect at work place),9084,11127,2083,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,16,75.69999999999999,39
+VV1082,42,06:00 to 21:00 (Home),8878,8558,415,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,11,73.98333333333332,24
+MFD1094,23,19:00 to 22:00 (working person),229,165,63,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,1.9083333333333332,24
+MFD1095,14,06:00 to 18:00 (Collect at work place),124,178,59,09:00 to 10:00,TSH,Blood,Vaccum blood collection tube,10,1.0333333333333332,24
+MFD1096,38,06:00 to 21:00 (Home),50,77,49,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,13,0.41666666666666663,24
+MFD1097,31,19:00 to 22:00 (working person),150,232,84,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,9,1.25,24
+DD1093,14,06:00 to 18:00 (Collect at work place),15958,18541,4544,11:00 to 12:00,H1N1,Swab,Disposable plastic container,6,132.98333333333335,39
+DD1094,13,19:00 to 22:00 (working person),13816,14548,953,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,13,115.13333333333333,34
+DD1095,31,06:00 to 18:00 (Collect at work place),14527,13667,1130,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,121.05833333333334,39
+DD1096,48,06:00 to 21:00 (Home),13580,13230,350,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,13,113.16666666666666,24
+TS1086,30,19:00 to 22:00 (working person),3207,3165,474,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,26.724999999999998,24
+TS1087,31,06:00 to 18:00 (Collect at work place),1075,636,515,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,15,8.958333333333334,34
+TS1088,16,06:00 to 21:00 (Home),3026,4556,1621,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,19,25.21666666666667,39
+TS1089,26,06:00 to 21:00 (Home),5211,4573,804,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,15,43.425000000000004,34
+PDC1079,15,19:00 to 22:00 (working person),146,117,49,19:00 to 20:00,H1N1,Swab,Disposable plastic container,13,1.2166666666666666,24
+PDC1080,10,06:00 to 18:00 (Collect at work place),21,40,53,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,20,0.17500000000000002,24
+PDC1081,36,19:00 to 22:00 (working person),97,85,40,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,0.8083333333333332,24
+PDC1082,38,06:00 to 18:00 (Collect at work place),127,137,101,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,12,1.0583333333333331,24
+SSD1093,19,06:00 to 21:00 (Home),5433,5370,438,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,20,45.275,24
+SSD1094,22,19:00 to 22:00 (working person),4045,5846,2537,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,9,33.70833333333333,39
+SSD1095,42,06:00 to 18:00 (Collect at work place),4501,4185,1298,15:00 to 16:00,H1N1,Swab,Disposable plastic container,18,37.50833333333333,39
+SSD1096,25,06:00 to 21:00 (Home),4687,5688,1202,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,9,39.05833333333333,39
+MD1113,24,19:00 to 22:00 (working person),1643,2269,2352,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,13.691666666666668,39
+MD1114,30,06:00 to 18:00 (Collect at work place),1302,2603,3895,12:00 to 13:00,CBC,Blood,Vaccum blood collection tube,10,10.85,39
+MD1115,28,06:00 to 21:00 (Home),2908,1509,2805,15:00 to 16:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,24.233333333333334,39
+MD1116,49,19:00 to 22:00 (working person),3502,581,3958,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,19,29.183333333333334,39
+MD1117,28,06:00 to 18:00 (Collect at work place),871,3298,2674,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,6,7.258333333333333,39
+VD1092,40,19:00 to 22:00 (working person),1680,1363,379,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,17,14.0,24
+VD1093,12,06:00 to 18:00 (Collect at work place),1377,1664,3031,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,16,11.475,39
+VD1094,15,06:00 to 21:00 (Home),3833,2081,5813,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,11,31.94166666666667,49
+VD1095,10,19:00 to 22:00 (working person),5106,570,4688,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,15,42.55,39
+VD1096,50,06:00 to 18:00 (Collect at work place),4413,1457,3390,12:00 to 13:00,H1N1,Swab,Disposable plastic container,17,36.775000000000006,39
+AD1094,36,06:00 to 21:00 (Home),2956,3133,515,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,15,24.633333333333333,34
+AD1095,12,19:00 to 22:00 (working person),3050,2895,336,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,25.416666666666664,24
+AD1096,31,06:00 to 18:00 (Collect at work place),3778,2046,2700,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,18,31.483333333333334,39
+AD1097,41,19:00 to 22:00 (working person),2501,3206,5542,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,14,20.841666666666665,49
+AD1098,36,06:00 to 18:00 (Collect at work place),6116,3192,6903,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,19,50.96666666666667,49
+LMD1088,39,06:00 to 21:00 (Home),2963,614,2479,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,15,24.691666666666666,39
+LMD1089,50,19:00 to 22:00 (working person),2960,3700,6635,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,6,24.666666666666668,49
+LMD1090,50,06:00 to 18:00 (Collect at work place),5389,1673,6071,06:00 to 07:00,H1N1,Swab,Disposable plastic container,9,44.90833333333333,49
+LMD1091,24,06:00 to 21:00 (Home),9160,6661,15820,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,6,76.33333333333334,64
+LMD1092,44,06:00 to 21:00 (Home),3785,2848,4245,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,31.541666666666668,39
+VV1083,30,19:00 to 22:00 (working person),2085,2292,3988,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,9,17.375,39
+VV1084,42,06:00 to 18:00 (Collect at work place),4590,2030,4669,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,6,38.25,39
+VV1085,13,19:00 to 22:00 (working person),3505,969,4462,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,15,29.208333333333336,39
+VV1086,10,06:00 to 18:00 (Collect at work place),3145,1113,4191,16:00 to 17:00,H1N1,Swab,Disposable plastic container,19,26.208333333333332,39
+VV1087,40,06:00 to 21:00 (Home),3924,2426,3402,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,18,32.7,39
+MFD1098,23,19:00 to 22:00 (working person),3759,435,3382,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,31.325,39
+MFD1099,40,06:00 to 18:00 (Collect at work place),5205,4504,1970,12:00 to 13:00,CBC,Blood,Vaccum blood collection tube,17,43.375,39
+MFD1100,17,06:00 to 21:00 (Home),5367,711,5357,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,44.725,49
+MFD1101,44,19:00 to 22:00 (working person),2119,1036,1234,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,12,17.658333333333335,39
+MFD1102,49,06:00 to 18:00 (Collect at work place),6891,3638,5382,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,6,57.425000000000004,49
+DD1097,16,06:00 to 21:00 (Home),4366,4383,194,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,15,36.38333333333334,24
+DD1098,19,19:00 to 22:00 (working person),3149,3209,251,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,20,26.241666666666667,24
+DD1099,28,06:00 to 18:00 (Collect at work place),3135,3175,67,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,15,26.125,24
+DD1100,12,19:00 to 22:00 (working person),3232,2979,336,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,13,26.933333333333334,24
+DD1101,15,06:00 to 18:00 (Collect at work place),3266,3161,483,06:00 to 07:00,Lipid Profile,Blood,Vaccum blood collection tube,10,27.21666666666667,24
+TS1090,44,06:00 to 21:00 (Home),1999,1391,750,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,15,16.65833333333333,34
+TS1091,46,19:00 to 22:00 (working person),4218,1632,2871,20:00 to 21:00,H1N1,Swab,Disposable plastic container,16,35.15,39
+TS1092,26,06:00 to 18:00 (Collect at work place),4029,1046,4715,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,11,33.575,39
+TS1093,27,06:00 to 21:00 (Home),2194,834,1759,11:00 to 12:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,18.283333333333335,39
+TS1094,36,19:00 to 22:00 (working person),3308,1963,4701,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,10,27.56666666666667,39
+PDC1083,30,06:00 to 18:00 (Collect at work place),6067,5801,2262,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,50.55833333333334,39
+PDC1084,20,19:00 to 22:00 (working person),6032,6558,2386,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,14,50.26666666666667,39
+PDC1085,34,06:00 to 18:00 (Collect at work place),4313,3454,4149,08:00 to 09:00,Lipid Profile,Blood,Vaccum blood collection tube,8,35.94166666666667,39
+PDC1086,35,06:00 to 21:00 (Home),4483,3749,4828,12:00 to 13:00,Complete Urinalysis,Urine,Urine culture transport tube,17,37.358333333333334,39
+PDC1087,43,19:00 to 22:00 (working person),6549,575,6825,20:00 to 21:00,H1N1,Swab,Disposable plastic container,12,54.574999999999996,49
+SSD1097,47,06:00 to 18:00 (Collect at work place),413,499,448,09:00 to 10:00,RTPCR,Swab,Disposable plastic container,6,3.4416666666666664,24
+SSD1098,50,06:00 to 21:00 (Home),3090,1246,1929,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,25.75,39
+SSD1099,22,06:00 to 21:00 (Home),872,1959,2760,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,12,7.266666666666667,39
+SSD1100,38,19:00 to 22:00 (working person),1407,2936,1575,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,12,11.724999999999998,39
+SSD1101,38,06:00 to 18:00 (Collect at work place),1386,998,670,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,19,11.55,34
+VD1097,18,19:00 to 22:00 (working person),18938,6984,22699,21:00 to 22:00,H1N1,Swab,Disposable plastic container,19,157.81666666666666,64
+MD1118,38,06:00 to 18:00 (Collect at work place),14539,12242,8016,12:00 to 13:00,RTPCR,Swab,Disposable plastic container,16,121.15833333333335,49
+AD1099,35,06:00 to 21:00 (Home),17615,7442,14756,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,6,146.79166666666669,54
+LMD1093,16,19:00 to 22:00 (working person),13269,9697,16995,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,10,110.57500000000002,64
+VV1088,36,06:00 to 18:00 (Collect at work place),29744,3783,33505,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,247.86666666666667,64
+MFD1103,26,06:00 to 21:00 (Home),15532,6117,18080,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,6,129.43333333333334,64
+DD1102,12,19:00 to 22:00 (working person),16387,11413,26535,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,13,136.55833333333334,64
+TS1095,12,06:00 to 18:00 (Collect at work place),3731,10535,12509,11:00 to 12:00,Complete Urinalysis,Urine,Urine culture transport tube,20,31.09166666666667,54
+PDC1088,20,06:00 to 21:00 (Home),20839,8631,27142,10:00 to 11:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,6,173.65833333333336,64
+SSD1102,42,19:00 to 22:00 (working person),6991,3844,7676,19:00 to 20:00,HbA1c,Blood,Vaccum blood collection tube,14,58.25833333333334,49
+SSD1103,22,06:00 to 18:00 (Collect at work place),26142,4135,22064,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,15,217.85,64
+SSD1104,41,19:00 to 22:00 (working person),13966,4135,11548,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,116.38333333333333,54
+MD1119,40,06:00 to 18:00 (Collect at work place),14206,16905,30440,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,13,118.38333333333333,64
+SSD1105,23,06:00 to 21:00 (Home),13982,4135,15915,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,20,116.51666666666668,64
+MD1020,29,19:00 to 22:00 (working person),23120,16905,21878,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,11,192.66666666666666,64
+SSD1106,21,06:00 to 18:00 (Collect at work place),32004,4135,33232,11:00 to 12:00,H1N1,Swab,Disposable plastic container,6,266.70000000000005,64
+MD1021,40,06:00 to 21:00 (Home),4269,16905,21029,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,5,35.574999999999996,64
+LMD1094,13,19:00 to 22:00 (working person),16470,7486,9763,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,137.25,49
+LMD1095,18,06:00 to 18:00 (Collect at work place),19580,7486,26895,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,18,163.16666666666666,64
+LMD1096,35,19:00 to 22:00 (working person),16641,6973,18936,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,138.675,64
+PDC1089,37,06:00 to 18:00 (Collect at work place),21632,3855,17879,06:00 to 07:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,15,180.26666666666665,64
+PDC1090,38,06:00 to 21:00 (Home),42384,3519,40197,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,9,353.2,64
+PDC1091,43,19:00 to 22:00 (working person),23989,5125,28593,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,10,199.90833333333336,64
+PDC1092,47,06:00 to 18:00 (Collect at work place),17256,5157,15751,11:00 to 12:00,H1N1,Swab,Disposable plastic container,7,143.79999999999998,64
+SSD1107,44,06:00 to 21:00 (Home),42391,3505,39564,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,11,353.2583333333333,64
+TS1096,12,06:00 to 21:00 (Home),23252,13439,14119,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,193.76666666666665,54
+TS1097,25,19:00 to 22:00 (working person),5244,14037,12392,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,12,43.7,54
+TS1098,20,06:00 to 18:00 (Collect at work place),14219,14117,2113,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,12,118.49166666666667,39
+LMD1097,10,19:00 to 22:00 (working person),14976,247,14731,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,12,124.79999999999998,54
+PDC1093,49,06:00 to 18:00 (Collect at work place),6215,3544,4245,12:00 to 13:00,H1N1,Swab,Disposable plastic container,13,51.791666666666664,39
+PDC1094,20,06:00 to 21:00 (Home),3810,2314,2796,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,8,31.75,39
+LMD1098,32,19:00 to 22:00 (working person),7055,3162,9372,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,58.791666666666664,49
+MD1022,31,06:00 to 18:00 (Collect at work place),7480,8519,8858,15:00 to 16:00,CBC,Blood,Vaccum blood collection tube,14,62.333333333333336,49
+VD1098,47,06:00 to 21:00 (Home),44018,39659,4647,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,366.81666666666666,39
+VD1099,33,19:00 to 22:00 (working person),23425,28390,9554,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,12,195.20833333333331,49
+VD1100,23,06:00 to 18:00 (Collect at work place),21704,11699,10005,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,18,180.86666666666667,54
+VD1101,40,06:00 to 21:00 (Home),14047,14310,632,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,20,117.05833333333334,34
+LMD1099,31,19:00 to 22:00 (working person),12250,5330,7135,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,6,102.08333333333334,49
+MD1023,40,06:00 to 18:00 (Collect at work place),5708,8611,5382,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,11,47.56666666666666,49
+LMD1100,22,19:00 to 22:00 (working person),5572,10606,5489,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,11,46.43333333333334,49
+VD1102,34,06:00 to 18:00 (Collect at work place),11282,16262,7195,09:00 to 10:00,Lipid Profile,Blood,Vaccum blood collection tube,13,94.01666666666668,49
+MD1024,40,06:00 to 21:00 (Home),7412,19658,12265,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,20,61.766666666666666,54
+LMD1101,50,19:00 to 22:00 (working person),13132,12856,278,21:00 to 22:00,H1N1,Swab,Disposable plastic container,9,109.43333333333334,24
+PDC1095,36,06:00 to 18:00 (Collect at work place),21241,12619,8720,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,15,177.00833333333333,49
+LMD1102,30,06:00 to 21:00 (Home),22156,24660,7022,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,184.63333333333333,49
+MD1025,45,19:00 to 22:00 (working person),14138,19658,5619,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,9,117.81666666666666,49
+VV1089,32,06:00 to 18:00 (Collect at work place),13334,12815,2832,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,111.11666666666667,39
+VV1090,29,19:00 to 22:00 (working person),14378,12637,1966,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,14,119.81666666666666,39
+TS1099,13,06:00 to 18:00 (Collect at work place),10363,9545,10349,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,7,86.35833333333332,54
+VV1089,16,06:00 to 21:00 (Home),32245,26702,13642,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,13,268.7083333333333,54
+LMD1103,21,19:00 to 22:00 (working person),10256,7681,3235,19:00 to 20:00,H1N1,Swab,Disposable plastic container,18,85.46666666666665,39
+PDC1096,11,06:00 to 18:00 (Collect at work place),26883,12619,25086,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,8,224.025,64
+VV1090,36,06:00 to 21:00 (Home),16731,10138,13025,13:00 to 14:00,Fasting blood sugar,Blood,Vaccum blood collection tube,12,139.42499999999998,54
+TS1100,31,06:00 to 21:00 (Home),21640,28376,6820,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,18,180.33333333333334,49
+TS1101,47,19:00 to 22:00 (working person),21204,28376,7230,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,18,176.70000000000002,49
+VV1091,32,06:00 to 18:00 (Collect at work place),4895,4381,5913,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,15,40.791666666666664,49
+TS1102,22,19:00 to 22:00 (working person),21796,28376,6707,20:00 to 21:00,H1N1,Swab,Disposable plastic container,6,181.63333333333333,49
+LMD1104,47,06:00 to 18:00 (Collect at work place),17890,9668,8238,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,17,149.08333333333334,49
+VV1092,16,19:00 to 22:00 (working person),12173,7006,10994,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,18,101.44166666666666,54
+MD1026,30,06:00 to 18:00 (Collect at work place),7,110,103,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13,0.05833333333333333,24
+MD1027,13,06:00 to 21:00 (Home),47,37,78,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,19,0.3916666666666667,24
+MD1028,14,19:00 to 22:00 (working person),118,86,189,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,15,0.9833333333333334,24
+MD1029,13,06:00 to 18:00 (Collect at work place),198,296,329,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,19,1.6500000000000001,24
+MD1030,38,06:00 to 21:00 (Home),484,704,652,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,12,4.033333333333333,34
+MD1031,38,19:00 to 22:00 (working person),656,560,635,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,10,5.466666666666667,34
+MD1032,21,06:00 to 18:00 (Collect at work place),2329,1455,985,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,17,19.408333333333335,34
+MD1033,20,19:00 to 22:00 (working person),3054,2542,597,19:00 to 20:00,H1N1,Swab,Disposable plastic container,5,25.45,34
+MD1034,24,06:00 to 18:00 (Collect at work place),3743,3046,736,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,6,31.191666666666666,34
+MD1035,14,06:00 to 21:00 (Home),3738,3160,661,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,31.150000000000002,34
+MD1036,34,19:00 to 22:00 (working person),2972,5053,7547,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,7,24.766666666666666,49
+MD1037,12,06:00 to 18:00 (Collect at work place),1228,717,781,13:00 to 14:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,10.233333333333333,34
+MD1038,25,06:00 to 21:00 (Home),1267,712,981,07:00 to 08:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,10.558333333333334,34
+MD1039,50,19:00 to 22:00 (working person),5830,6618,1881,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,8,48.583333333333336,39
+MD1040,10,06:00 to 18:00 (Collect at work place),7508,7516,308,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,18,62.56666666666666,24
+MD1041,42,19:00 to 22:00 (working person),8172,8342,205,20:00 to 21:00,H1N1,Swab,Disposable plastic container,16,68.10000000000001,24
+MD1042,39,06:00 to 18:00 (Collect at work place),6638,6728,317,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,6,55.31666666666666,24
+MD1043,35,06:00 to 21:00 (Home),6564,7008,489,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,54.699999999999996,24
+MD1044,28,19:00 to 22:00 (working person),7599,7810,535,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,17,63.324999999999996,34
+MD1045,28,06:00 to 18:00 (Collect at work place),9834,10548,787,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,18,81.95,34
+MD1046,10,06:00 to 21:00 (Home),7974,7855,524,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,19,66.44999999999999,34
+MD1047,17,06:00 to 21:00 (Home),7965,8217,541,19:00 to 20:00,H1N1,Swab,Disposable plastic container,11,66.375,34
+MD1048,50,19:00 to 22:00 (working person),8936,9372,625,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,8,74.46666666666667,34
+MD1049,29,06:00 to 18:00 (Collect at work place),10480,10722,249,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,87.33333333333333,24
+MD1050,11,19:00 to 22:00 (working person),7764,8025,412,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,17,64.7,24
+MD1051,35,06:00 to 18:00 (Collect at work place),421,1867,1520,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,3.5083333333333333,39
+MD1052,21,06:00 to 21:00 (Home),5045,5421,376,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,13,42.041666666666664,24
+VD1103,44,19:00 to 22:00 (working person),797,610,665,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,13,6.641666666666667,34
+MD1053,20,06:00 to 18:00 (Collect at work place),1632,2269,2352,13:00 to 14:00,Complete Urinalysis,Urine,Urine culture transport tube,20,13.599999999999998,39
+MD1054,19,06:00 to 21:00 (Home),1304,3643,4945,07:00 to 08:00,CBC,Blood,Vaccum blood collection tube,17,10.866666666666667,39
+MD1055,16,19:00 to 22:00 (working person),2908,1509,2805,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,24.233333333333334,39
+VD1104,27,06:00 to 18:00 (Collect at work place),120,79,100,16:00 to 17:00,TSH,Blood,Vaccum blood collection tube,10,1.0,24
+VD1105,49,06:00 to 21:00 (Home),128,139,84,06:00 to 07:00,Lipid Profile,Blood,Vaccum blood collection tube,13,1.0666666666666667,24
+AD1100,32,19:00 to 22:00 (working person),48,110,72,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,16,0.4,24
+AD1101,26,06:00 to 18:00 (Collect at work place),85,111,47,15:00 to 16:00,H1N1,Swab,Disposable plastic container,11,0.7083333333333333,24
+LMD1105,17,19:00 to 22:00 (working person),3433,3516,6932,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,16,28.608333333333334,49
+LMD1106,49,06:00 to 18:00 (Collect at work place),3719,5806,2163,11:00 to 12:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,30.991666666666667,39
+MFD1104,12,06:00 to 21:00 (Home),20054,6564,25369,10:00 to 11:00,CBC,Blood,Vaccum blood collection tube,8,167.11666666666667,64
+MFD1105,49,19:00 to 22:00 (working person),3968,5773,1816,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,11,33.06666666666666,39
+MFD1106,41,06:00 to 18:00 (Collect at work place),5806,4706,1144,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,16,48.38333333333334,39
+LMD1107,22,06:00 to 21:00 (Home),1536,973,1169,08:00 to 09:00,Lipid Profile,Blood,Vaccum blood collection tube,10,12.8,39
+LMD1108,10,19:00 to 22:00 (working person),775,2036,2407,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,11,6.458333333333334,39
+LMD1109,50,06:00 to 18:00 (Collect at work place),2414,7114,9313,12:00 to 13:00,H1N1,Swab,Disposable plastic container,18,20.116666666666667,49
+VD1106,35,19:00 to 22:00 (working person),856,230,689,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,14,7.133333333333333,34
+MFD1107,13,06:00 to 18:00 (Collect at work place),688,3695,3694,14:00 to 15:00,Fasting blood sugar,Blood,Vaccum blood collection tube,7,5.733333333333333,39
+MFD1108,39,06:00 to 21:00 (Home),802,3695,2909,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,17,6.683333333333334,39
+LMD1110,22,19:00 to 22:00 (working person),320,8827,8753,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,9,2.6666666666666665,49
+LMD1111,35,06:00 to 18:00 (Collect at work place),244,9204,9050,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,11,2.033333333333333,49
+SSD1108,45,06:00 to 21:00 (Home),18,13545,13563,20:00 to 21:00,H1N1,Swab,Disposable plastic container,11,0.15000000000000002,54
+SSD1109,21,06:00 to 21:00 (Home),0,13095,13095,16:00 to 17:00,RTPCR,Swab,Disposable plastic container,17,0.0,54
+SSD1110,33,19:00 to 22:00 (working person),22,9892,9873,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11,0.18333333333333335,49
+SSD1111,26,06:00 to 18:00 (Collect at work place),63,9935,9943,14:00 to 15:00,CBC,Blood,Vaccum blood collection tube,11,0.525,49
+VV1093,42,19:00 to 22:00 (working person),269,1782,2044,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,2.2416666666666667,39
+VV1094,16,06:00 to 18:00 (Collect at work place),177,315,296,17:00 to 18:00,TSH,Blood,Vaccum blood collection tube,19,1.4749999999999999,24
+VV1095,29,06:00 to 21:00 (Home),139,3318,3449,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,20,1.1583333333333332,39
+VV1096,33,19:00 to 22:00 (working person),219,4413,4633,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,6,1.825,39
+VV1097,27,06:00 to 18:00 (Collect at work place),246,15495,15429,15:00 to 16:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,19,2.0500000000000003,64
+MD1056,40,06:00 to 21:00 (Home),121,201,300,17:00 to 18:00,HbA1c,Blood,Vaccum blood collection tube,12,1.0083333333333333,24
+MD1057,36,19:00 to 22:00 (working person),143,278,151,21:00 to 22:00,CBC,Blood,Vaccum blood collection tube,15,1.1916666666666667,24
+MD1058,35,06:00 to 18:00 (Collect at work place),121,145,145,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19,1.0083333333333333,24
+VD1107,38,06:00 to 21:00 (Home),231,211,84,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,6,1.925,24
+VD1108,36,19:00 to 22:00 (working person),113,139,192,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,8,0.9416666666666668,24
+VD1109,14,06:00 to 18:00 (Collect at work place),128,97,221,11:00 to 12:00,Complete Urinalysis,Urine,Urine culture transport tube,6,1.0666666666666667,24
+AD1102,26,19:00 to 22:00 (working person),80,151,89,13:00 to 14:00,H1N1,Swab,Disposable plastic container,17,0.6666666666666666,24
+AD1103,22,06:00 to 18:00 (Collect at work place),96,249,207,07:00 to 08:00,RTPCR,Swab,Disposable plastic container,15,0.8,24
+AD1104,10,06:00 to 21:00 (Home),92,319,347,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,13,0.7666666666666666,24
+LMD1112,38,19:00 to 22:00 (working person),169,165,231,21:00 to 22:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,8,1.4083333333333332,24
+LMD1113,28,06:00 to 18:00 (Collect at work place),250,674,425,06:00 to 07:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,2.0833333333333335,24
+LMD1114,42,06:00 to 21:00 (Home),204,641,479,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,19,1.6999999999999997,24
+VV1098,10,19:00 to 22:00 (working person),382,653,321,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,19,3.1833333333333336,24
+VV1099,11,06:00 to 18:00 (Collect at work place),222,218,205,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,11,1.85,24
+VV1100,43,19:00 to 22:00 (working person),120,377,357,21:00 to 22:00,H1N1,Swab,Disposable plastic container,10,1.0,24
+MFD1109,48,06:00 to 18:00 (Collect at work place),392,187,261,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,9,3.266666666666667,24
+MFD1110,31,06:00 to 21:00 (Home),218,207,207,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,20,1.8166666666666667,24
+MFD1105,15,19:00 to 22:00 (working person),92,338,270,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,11,0.7666666666666666,24
+DD1103,25,06:00 to 18:00 (Collect at work place),111,232,248,08:00 to 09:00,Lipid Profile,Blood,Vaccum blood collection tube,16,0.925,24
+DD1104,29,06:00 to 21:00 (Home),267,261,122,12:00 to 13:00,Complete Urinalysis,Urine,Urine culture transport tube,13,2.225,24
+DD1105,38,06:00 to 21:00 (Home),173,189,281,20:00 to 21:00,H1N1,Swab,Disposable plastic container,5,1.4416666666666667,24
+TS1103,24,19:00 to 22:00 (working person),210,185,264,19:00 to 22:00,RTPCR,Swab,Disposable plastic container,7,1.75,24
+TS1104,47,06:00 to 18:00 (Collect at work place),220,256,406,16:00 to 17:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,1.8333333333333333,24
+TS1105,33,19:00 to 22:00 (working person),124,357,398,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,14,1.0333333333333332,24
+PDC1097,30,06:00 to 18:00 (Collect at work place),223,214,247,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,1.8583333333333334,24
+PDC1098,34,06:00 to 21:00 (Home),295,191,286,13:00 to 14:00,TSH,Blood,Vaccum blood collection tube,17,2.458333333333333,24
+PDC1099,46,19:00 to 22:00 (working person),309,327,509,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,18,2.575,34
+SSD1112,21,06:00 to 18:00 (Collect at work place),159,163,228,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,12,1.3250000000000002,24
+SSD1113,10,06:00 to 21:00 (Home),194,324,197,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,11,1.6166666666666665,24
+SSD1114,35,19:00 to 22:00 (working person),161,241,144,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,1.3416666666666668,24
+VD1110,30,06:00 to 18:00 (Collect at work place),472,9171,9528,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,12,3.9333333333333336,49
+VD1111,34,06:00 to 21:00 (Home),270,10478,10620,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,10,2.25,54
+VD1112,44,19:00 to 22:00 (working person),248,9428,9334,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,8,2.0666666666666664,49
+VD1113,15,06:00 to 18:00 (Collect at work place),368,7979,8316,11:00 to 12:00,H1N1,Swab,Disposable plastic container,19,3.0666666666666664,49
+VD1114,29,19:00 to 22:00 (working person),543,5800,5639,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,18,4.5249999999999995,49
+LMD1115,17,06:00 to 18:00 (Collect at work place),671,5862,5368,17:00 to 18:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,5,5.591666666666666,49
+LMD1116,23,06:00 to 21:00 (Home),333,9370,9408,17:00 to 18:00,CBC,Blood,Vaccum blood collection tube,15,2.7749999999999995,49
+LMD1117,39,19:00 to 22:00 (working person),409,6403,6707,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,3.408333333333333,49
+LMD1118,27,06:00 to 18:00 (Collect at work place),363,366,217,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,8,3.025,24
+LMD1119,40,06:00 to 21:00 (Home),874,4035,4436,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,14,7.283333333333334,39
+SSD1115,15,19:00 to 22:00 (working person),42,81,41,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,20,0.35000000000000003,24
+SSD1116,45,06:00 to 18:00 (Collect at work place),93,4082,3994,14:00 to 15:00,H1N1,Swab,Disposable plastic container,7,0.775,39
+SSD1117,40,19:00 to 22:00 (working person),65,252,195,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,6,0.5416666666666667,24
+SSD1118,26,06:00 to 18:00 (Collect at work place),780,8688,8256,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,6.5,49
+SSD1119,41,06:00 to 21:00 (Home),201,5295,5442,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,20,1.675,49
+MD1059,34,19:00 to 22:00 (working person),984,11480,10596,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,8,8.200000000000001,54
+MD1060,21,06:00 to 18:00 (Collect at work place),2823,4773,6861,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,9,23.525,49
+MD1061,34,06:00 to 21:00 (Home),1315,12420,13736,20:00 to 21:00,H1N1,Swab,Disposable plastic container,10,10.958333333333334,54
+MD1062,17,06:00 to 21:00 (Home),1264,16372,17464,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,12,10.533333333333335,64
+MD1063,38,19:00 to 22:00 (working person),1083,26815,27417,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,9.025,64
+AD1105,22,06:00 to 18:00 (Collect at work place),2509,10728,10137,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,17,20.90833333333333,54
+AD1106,25,19:00 to 22:00 (working person),407,9954,10360,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,3.3916666666666666,54
+AD1107,11,06:00 to 18:00 (Collect at work place),1367,4575,5650,14:00 to 15:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,20,11.391666666666666,49
+AD1108,10,06:00 to 21:00 (Home),656,13118,13739,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,20,5.466666666666667,54
+AD1109,40,19:00 to 22:00 (working person),466,12357,12757,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,6,3.8833333333333337,54
+PDC1100,42,06:00 to 18:00 (Collect at work place),47,27,62,12:00 to 13:00,TSH,Blood,Vaccum blood collection tube,6,0.3916666666666667,24
+PDC1101,14,06:00 to 21:00 (Home),72,7993,7947,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,20,0.6000000000000001,49
+VV1101,18,19:00 to 22:00 (working person),204,197,138,19:00 to 20:00,Complete Urinalysis,Urine,Urine culture transport tube,5,1.6999999999999997,24
+VV1102,49,06:00 to 18:00 (Collect at work place),174,2561,2532,15:00 to 16:00,H1N1,Swab,Disposable plastic container,5,1.45,39
+VV1103,34,06:00 to 21:00 (Home),38,542,576,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,9,0.31666666666666665,34
+TS1106,24,19:00 to 22:00 (working person),57,12718,12708,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,0.475,54
+TS1107,39,06:00 to 18:00 (Collect at work place),369,6908,7046,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,12,3.075,49
+TS1108,48,19:00 to 22:00 (working person),398,3504,3686,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,3.3166666666666664,39
+DD1106,33,06:00 to 18:00 (Collect at work place),204,14218,14048,14:00 to 15:00,TSH,Blood,Vaccum blood collection tube,20,1.6999999999999997,54
+DD1107,42,06:00 to 21:00 (Home),401,4346,4684,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,8,3.341666666666667,39
+DD1108,10,19:00 to 22:00 (working person),450,12513,12150,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,8,3.75,54
+MD1064,36,06:00 to 18:00 (Collect at work place),17781,18120,374,09:00 to 10:00,H1N1,Swab,Disposable plastic container,9,148.17499999999998,24
+MD1065,46,06:00 to 21:00 (Home),18642,18406,289,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,9,155.35,24
+MD1066,35,19:00 to 22:00 (working person),18355,18104,252,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,152.95833333333331,24
+VD1115,41,06:00 to 18:00 (Collect at work place),13681,13763,83,11:00 to 12:00,TSH,Blood,Vaccum blood collection tube,19,114.00833333333333,24
+VD1116,32,19:00 to 22:00 (working person),12947,13428,897,21:00 to 22:00,Lipid Profile,Blood,Vaccum blood collection tube,11,107.89166666666667,34
+VD1117,37,06:00 to 18:00 (Collect at work place),7010,7125,362,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,5,58.41666666666667,24
+AD1110,25,06:00 to 21:00 (Home),7004,6846,206,17:00 to 18:00,H1N1,Swab,Disposable plastic container,11,58.36666666666667,24
+AD1111,15,19:00 to 22:00 (working person),6520,6934,798,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,17,54.333333333333336,34
+AD1112,12,06:00 to 18:00 (Collect at work place),6919,6831,121,12:00 to 13:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,57.65833333333333,24
+LMD1120,16,06:00 to 21:00 (Home),13675,13305,1005,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,18,113.95833333333334,39
+LMD1121,48,06:00 to 21:00 (Home),5144,5238,261,14:00 to 15:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,9,42.86666666666666,24
+LMD1122,46,19:00 to 22:00 (working person),5394,5243,320,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,13,44.95,24
+LMD1123,17,06:00 to 18:00 (Collect at work place),5510,5741,745,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,18,45.91666666666667,34
+LMD1124,35,19:00 to 22:00 (working person),5734,5010,724,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,9,47.78333333333333,34
+VV1104,19,06:00 to 18:00 (Collect at work place),6967,3336,8658,12:00 to 13:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,18,58.05833333333334,49
+VV1105,41,06:00 to 21:00 (Home),8345,8447,182,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,69.54166666666667,24
+VV1106,32,19:00 to 22:00 (working person),8315,8561,250,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,16,69.29166666666666,24
+VV1107,18,06:00 to 18:00 (Collect at work place),8838,8703,1242,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,5,73.64999999999999,39
+VV1108,23,06:00 to 21:00 (Home),3376,2527,1701,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,14,28.133333333333333,39
+MFD1111,13,19:00 to 22:00 (working person),3946,3924,345,21:00 to 22:00,H1N1,Swab,Disposable plastic container,5,32.88333333333333,24
+MFD1112,48,06:00 to 18:00 (Collect at work place),4074,4339,1421,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,8,33.95,39
+MFD1113,29,06:00 to 21:00 (Home),8467,8627,223,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,70.55833333333334,24
+MFD1114,14,19:00 to 22:00 (working person),8376,8426,94,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,9,69.80000000000001,24
+MFD1115,16,06:00 to 18:00 (Collect at work place),8545,8301,280,17:00 to 18:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,71.20833333333334,24
+DD1109,28,19:00 to 22:00 (working person),7451,7630,227,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,9,62.09166666666667,24
+DD1110,18,06:00 to 18:00 (Collect at work place),6508,6190,323,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,20,54.23333333333333,24
+DD1111,23,06:00 to 21:00 (Home),5861,6232,392,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,9,48.84166666666667,24
+DD1112,28,19:00 to 22:00 (working person),6215,5856,361,19:00 to 20:00,H1N1,Swab,Disposable plastic container,12,51.791666666666664,24
+DD1113,39,06:00 to 18:00 (Collect at work place),20517,20403,121,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,18,170.975,24
+TS1109,29,06:00 to 21:00 (Home),723,408,1005,13:00 to 14:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,6.0249999999999995,39
+TS1110,47,19:00 to 22:00 (working person),9992,10143,261,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,16,83.26666666666667,24
+TS1111,24,06:00 to 18:00 (Collect at work place),9841,10160,320,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,19,82.00833333333334,24
+TS1112,38,19:00 to 22:00 (working person),20050,20128,83,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,16,167.08333333333331,24
+TS1113,36,06:00 to 18:00 (Collect at work place),19361,19703,897,06:00 to 07:00,H1N1,Swab,Disposable plastic container,13,161.34166666666664,34
+PDC1102,26,06:00 to 21:00 (Home),9891,9909,362,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,8,82.425,24
+PDC1103,18,19:00 to 22:00 (working person),10028,9891,206,19:00 to 20:00,Fasting blood sugar,Blood,Vaccum blood collection tube,18,83.56666666666666,24
+PDC1104,45,06:00 to 18:00 (Collect at work place),9630,9940,798,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,8,80.25,34
+PDC1105,50,06:00 to 21:00 (Home),7256,7280,55,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10,60.46666666666667,24
+PDC1106,34,06:00 to 21:00 (Home),7333,7096,311,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,9,61.10833333333333,24
+SSD1120,25,19:00 to 22:00 (working person),11113,11126,30,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,12,92.60833333333332,24
+SSD1121,45,06:00 to 18:00 (Collect at work place),10652,11053,885,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,17,88.76666666666667,34
+SSD1122,19,19:00 to 22:00 (working person),5881,5953,83,21:00 to 22:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,13,49.00833333333334,24
+SSD1123,24,06:00 to 18:00 (Collect at work place),5200,6074,897,12:00 to 13:00,HbA1c,Blood,Vaccum blood collection tube,14,43.33333333333333,34
+SSD1124,13,06:00 to 21:00 (Home),16976,17103,362,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,11,141.46666666666667,24
+MD1067,23,19:00 to 22:00 (working person),443,483,325,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10,3.6916666666666664,24
+MD1068,23,06:00 to 18:00 (Collect at work place),479,1236,757,15:00 to 16:00,TSH,Blood,Vaccum blood collection tube,6,3.9916666666666667,34
+MD1069,23,06:00 to 21:00 (Home),366,440,219,14:00 to 15:00,Lipid Profile,Blood,Vaccum blood collection tube,7,3.05,24
+VD1118,17,19:00 to 22:00 (working person),412,189,311,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,5,3.4333333333333336,24
+VD1119,45,06:00 to 18:00 (Collect at work place),721,822,833,13:00 to 14:00,H1N1,Swab,Disposable plastic container,15,6.008333333333333,34
+VD1120,38,06:00 to 21:00 (Home),940,887,1288,07:00 to 08:00,RTPCR,Swab,Disposable plastic container,19,7.833333333333333,39
+AD1113,13,19:00 to 22:00 (working person),141,508,639,20:00 to 21:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,1.1749999999999998,34
+AD1114,48,06:00 to 18:00 (Collect at work place),320,388,310,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,17,2.6666666666666665,24
+AD1115,39,19:00 to 22:00 (working person),891,703,229,20:00 to 21:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,8,7.424999999999999,24
+LMD1125,36,06:00 to 18:00 (Collect at work place),249,256,301,16:00 to 17:00,TSH,Blood,Vaccum blood collection tube,16,2.0749999999999997,24
+LMD1126,40,06:00 to 21:00 (Home),156,383,229,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,17,1.3,24
+LMD1127,18,19:00 to 22:00 (working person),318,443,269,21:00 to 22:00,Complete Urinalysis,Urine,Urine culture transport tube,14,2.6500000000000004,24
+LMD1128,34,06:00 to 18:00 (Collect at work place),212,596,398,11:00 to 12:00,H1N1,Swab,Disposable plastic container,17,1.7666666666666666,24
+LMD1129,33,06:00 to 21:00 (Home),444,479,268,10:00 to 11:00,RTPCR,Swab,Disposable plastic container,8,3.7,24
+VV1109,34,19:00 to 22:00 (working person),369,144,404,19:00 to 20:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,15,3.075,24
+VV1110,24,06:00 to 18:00 (Collect at work place),178,306,312,17:00 to 18:00,TSH,Blood,Vaccum blood collection tube,15,1.4833333333333334,24
+VV1111,16,19:00 to 22:00 (working person),319,456,288,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,9,2.658333333333333,24
+MFD1116,35,06:00 to 18:00 (Collect at work place),309,334,478,12:00 to 13:00,Complete Urinalysis,Urine,Urine culture transport tube,13,2.575,24
+MFD1117,32,06:00 to 21:00 (Home),311,344,494,20:00 to 21:00,H1N1,Swab,Disposable plastic container,16,2.591666666666667,24
+MFD1118,10,19:00 to 22:00 (working person),321,424,384,19:00 to 20:00,RTPCR,Swab,Disposable plastic container,10,2.6750000000000003,24
+DD1114,41,06:00 to 18:00 (Collect at work place),198,154,54,17:00 to 18:00,Fasting blood sugar,Blood,Vaccum blood collection tube,15,1.6500000000000001,24
+DD1115,11,06:00 to 21:00 (Home),44,156,200,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,20,0.3666666666666667,24
+DD1116,37,06:00 to 21:00 (Home),268,218,326,07:00 to 08:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,17,2.2333333333333334,24
+DD1117,47,19:00 to 22:00 (working person),167,213,250,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,19,1.3916666666666666,24
+TS1114,19,06:00 to 18:00 (Collect at work place),206,319,525,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,17,1.7166666666666668,34
+TS1115,36,19:00 to 22:00 (working person),172,327,325,06:00 to 07:00,Complete Urinalysis,Urine,Urine culture transport tube,8,1.4333333333333333,24
+TS1116,15,06:00 to 18:00 (Collect at work place),249,191,386,13:00 to 14:00,CBC,Blood,Vaccum blood collection tube,13,2.0749999999999997,24
+TS1117,41,06:00 to 21:00 (Home),214,366,415,15:00 to 16:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,20,1.7833333333333332,24
+TS1118,17,19:00 to 22:00 (working person),275,490,400,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,8,2.2916666666666665,24
+PDC1107,39,06:00 to 18:00 (Collect at work place),423,353,465,11:00 to 12:00,Lipid Profile,Blood,Vaccum blood collection tube,11,3.525,24
+PDC1108,50,06:00 to 21:00 (Home),377,375,456,10:00 to 11:00,Complete Urinalysis,Urine,Urine culture transport tube,11,3.141666666666667,24
+PDC1109,14,19:00 to 22:00 (working person),389,324,691,19:00 to 20:00,H1N1,Swab,Disposable plastic container,14,3.2416666666666667,34
+PDC1110,49,06:00 to 18:00 (Collect at work place),339,433,380,17:00 to 18:00,RTPCR,Swab,Disposable plastic container,14,2.8249999999999997,24
+SSD1125,36,06:00 to 21:00 (Home),260,197,241,08:00 to 09:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,2.166666666666667,24
+SSD1126,25,19:00 to 22:00 (working person),300,220,135,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,9,2.5,24
+SSD1127,39,06:00 to 18:00 (Collect at work place),91,230,225,12:00 to 13:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,6,0.7583333333333333,24
+SSD1128,42,19:00 to 22:00 (working person),265,385,381,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,6,2.208333333333333,24
+MD1070,40,06:00 to 18:00 (Collect at work place),211,7679,7766,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,16,1.7583333333333333,49
+MD1071,24,06:00 to 21:00 (Home),96,7524,7504,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,15,0.8,49
+MD1072,35,19:00 to 22:00 (working person),97,7377,7392,21:00 to 22:00,H1N1,Swab,Disposable plastic container,13,0.8083333333333332,49
+VD1121,47,06:00 to 18:00 (Collect at work place),268,1161,1170,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,13,2.2333333333333334,39
+VD1122,21,06:00 to 21:00 (Home),98,2499,2595,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,9,0.8166666666666668,39
+VD1123,45,19:00 to 22:00 (working person),218,9772,9648,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,14,1.8166666666666667,49
+AD1116,14,06:00 to 18:00 (Collect at work place),183,5668,5569,16:00 to 17:00,Lipid Profile,Blood,Vaccum blood collection tube,14,1.525,49
+AD1117,43,19:00 to 22:00 (working person),73,5981,5907,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,20,0.6083333333333333,49
+AD1118,35,06:00 to 18:00 (Collect at work place),184,5946,5783,10:00 to 11:00,H1N1,Swab,Disposable plastic container,12,1.5333333333333332,49
+LMD1130,13,06:00 to 21:00 (Home),55,9533,9589,15:00 to 16:00,RTPCR,Swab,Disposable plastic container,16,0.4583333333333333,49
+LMD1131,41,19:00 to 22:00 (working person),67,9723,9675,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,17,0.5583333333333333,49
+LMD1132,48,06:00 to 18:00 (Collect at work place),92,9198,9207,11:00 to 12:00,CBC,Blood,Vaccum blood collection tube,14,0.7666666666666666,49
+VV1112,34,06:00 to 21:00 (Home),143,1288,1193,10:00 to 11:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,1.1916666666666667,39
+VV1113,39,06:00 to 21:00 (Home),168,1296,1143,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,15,1.4000000000000001,39
+VV1114,10,19:00 to 22:00 (working person),92,1209,1182,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,19,0.7666666666666666,39
+MFD1119,20,06:00 to 18:00 (Collect at work place),523,273,376,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,13,4.3583333333333325,24
+MFD1120,44,19:00 to 22:00 (working person),249,238,237,20:00 to 21:00,TSH,Blood,Vaccum blood collection tube,8,2.0749999999999997,24
+MFD1121,12,06:00 to 18:00 (Collect at work place),277,129,261,15:00 to 16:00,Lipid Profile,Blood,Vaccum blood collection tube,8,2.3083333333333336,24
+DD1118,48,06:00 to 21:00 (Home),148,654,530,14:00 to 15:00,Complete Urinalysis,Urine,Urine culture transport tube,18,1.2333333333333334,34
+DD1119,33,19:00 to 22:00 (working person),159,545,460,21:00 to 22:00,H1N1,Swab,Disposable plastic container,16,1.3250000000000002,24
+DD1120,40,06:00 to 18:00 (Collect at work place),132,468,600,13:00 to 14:00,RTPCR,Swab,Disposable plastic container,19,1.1,34
+TS1119,42,06:00 to 21:00 (Home),152,281,286,07:00 to 08:00,Fasting blood sugar,Blood,Vaccum blood collection tube,14,1.2666666666666666,24
+TS1120,22,19:00 to 22:00 (working person),145,191,183,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,8,1.2083333333333333,24
+TS1121,17,06:00 to 18:00 (Collect at work place),144,285,403,16:00 to 17:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,18,1.2000000000000002,24
+PDC1111,18,06:00 to 21:00 (Home),104,737,776,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,7,0.8666666666666667,34
+PDC1112,21,19:00 to 22:00 (working person),173,1417,1583,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,6,1.4416666666666667,39
+PDC1113,43,06:00 to 18:00 (Collect at work place),161,980,828,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,20,1.3416666666666668,34
+SSD1129,28,19:00 to 22:00 (working person),121,258,377,21:00 to 22:00,H1N1,Swab,Disposable plastic container,19,1.0083333333333333,24
+SSD1130,47,06:00 to 18:00 (Collect at work place),221,537,727,11:00 to 12:00,RTPCR,Swab,Disposable plastic container,16,1.8416666666666668,34
+SSD1131,24,06:00 to 21:00 (Home),158,730,787,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,5,1.3166666666666669,34
+AD1119,19,19:00 to 22:00 (working person),844,6466,7046,19:00 to 20:00,TSH,Blood,Vaccum blood collection tube,20,7.033333333333333,49
+AD1120,30,06:00 to 18:00 (Collect at work place),2526,7560,9103,17:00 to 18:00,Lipid Profile,Blood,Vaccum blood collection tube,7,21.05,49
+LMD1133,39,06:00 to 21:00 (Home),0,9212,9212,08:00 to 09:00,Complete Urinalysis,Urine,Urine culture transport tube,5,0.0,49
+LMD1134,26,19:00 to 22:00 (working person),1365,9604,10760,19:00 to 20:00,H1N1,Swab,Disposable plastic container,14,11.375,54
+LMD1135,19,06:00 to 18:00 (Collect at work place),1173,9975,9967,14:00 to 15:00,RTPCR,Swab,Disposable plastic container,8,9.774999999999999,49
+LMD1136,36,19:00 to 22:00 (working person),1756,10047,8321,21:00 to 22:00,Fasting blood sugar,Blood,Vaccum blood collection tube,16,14.633333333333333,49
+LMD1137,48,06:00 to 18:00 (Collect at work place),2040,11521,10986,16:00 to 17:00,CBC,Blood,Vaccum blood collection tube,18,17.0,54
+VV1115,23,06:00 to 21:00 (Home),2213,2248,2145,14:00 to 15:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,15,18.441666666666666,39
+VV1116,30,19:00 to 22:00 (working person),2321,417,2054,21:00 to 22:00,TSH,Blood,Vaccum blood collection tube,13,19.341666666666665,39
+VV1117,37,06:00 to 18:00 (Collect at work place),1897,3263,3646,13:00 to 14:00,Lipid Profile,Blood,Vaccum blood collection tube,15,15.808333333333334,39
+VV1118,24,06:00 to 21:00 (Home),3915,2212,6128,07:00 to 08:00,Complete Urinalysis,Urine,Urine culture transport tube,9,32.625,49
+VV1119,18,06:00 to 21:00 (Home),2146,3509,5601,20:00 to 21:00,CBC,Blood,Vaccum blood collection tube,9,17.883333333333333,49
+MFD1122,38,19:00 to 22:00 (working person),2032,434,1710,21:00 to 22:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,5,16.93333333333333,39
+MFD1123,16,06:00 to 18:00 (Collect at work place),547,1066,1614,06:00 to 07:00,TSH,Blood,Vaccum blood collection tube,8,4.558333333333334,39
+VD1124,20,19:00 to 22:00 (working person),1010,1385,439,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,16,8.416666666666666,24
+AD1121,11,06:00 to 18:00 (Collect at work place),1275,699,745,15:00 to 16:00,Complete Urinalysis,Urine,Urine culture transport tube,9,10.625,34
+AD1122,28,06:00 to 21:00 (Home),1192,863,870,20:00 to 21:00,H1N1,Swab,Disposable plastic container,14,9.933333333333334,34
+AD1123,43,19:00 to 22:00 (working person),2096,3097,1579,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,5,17.466666666666665,39
+DD1121,36,06:00 to 18:00 (Collect at work place),30163,5354,28682,10:00 to 11:00,Fasting blood sugar,Blood,Vaccum blood collection tube,10,251.35833333333335,64
+DD1122,37,06:00 to 21:00 (Home),16033,9465,8333,19:00 to 20:00,CBC,Blood,Vaccum blood collection tube,13,133.60833333333335,49
+DD1123,40,19:00 to 22:00 (working person),10310,7512,11876,19:00 to 20:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,12,85.91666666666667,54
+DD1124,44,06:00 to 18:00 (Collect at work place),11331,4879,14688,08:00 to 09:00,TSH,Blood,Vaccum blood collection tube,7,94.42499999999998,54
+TS1122,43,06:00 to 21:00 (Home),3855,4402,8257,12:00 to 13:00,Lipid Profile,Blood,Vaccum blood collection tube,6,32.125,49
+TS1123,44,19:00 to 22:00 (working person),7027,501,6583,20:00 to 21:00,Complete Urinalysis,Urine,Urine culture transport tube,18,58.55833333333334,49
+TS1124,33,06:00 to 18:00 (Collect at work place),7769,4029,10479,14:00 to 15:00,H1N1,Swab,Disposable plastic container,17,64.74166666666666,54
+TS1125,18,19:00 to 22:00 (working person),3502,6708,6849,21:00 to 22:00,RTPCR,Swab,Disposable plastic container,9,29.183333333333334,49
+TS1126,27,06:00 to 18:00 (Collect at work place),6647,3244,9586,13:00 to 14:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19,55.39166666666667,49
+PDC1114,22,06:00 to 21:00 (Home),9630,9940,798,07:00 to 08:00,TSH,Blood,Vaccum blood collection tube,15,80.25,34
+PDC1115,28,19:00 to 22:00 (working person),7256,7280,55,20:00 to 21:00,Lipid Profile,Blood,Vaccum blood collection tube,16,60.46666666666667,24
+PDC1116,42,06:00 to 18:00 (Collect at work place),7333,7096,311,16:00 to 17:00,Complete Urinalysis,Urine,Urine culture transport tube,19,61.10833333333333,24
+SSD1132,25,06:00 to 21:00 (Home),11113,11126,30,06:00 to 07:00,H1N1,Swab,Disposable plastic container,7,92.60833333333332,24
+SSD1133,39,19:00 to 22:00 (working person),10652,11053,885,20:00 to 21:00,RTPCR,Swab,Disposable plastic container,9,88.76666666666667,34
+SSD1134,30,06:00 to 18:00 (Collect at work place),5881,5953,83,15:00 to 16:00,Fasting blood sugar,Blood,Vaccum blood collection tube,8,49.00833333333334,24
+MFD1124,16,19:00 to 22:00 (working person),4284,4400,540,21:00 to 22:00,Vitamin B-12 ,Blood,Vaccum blood collection tube,16,35.699999999999996,34
+MFD1125,27,06:00 to 18:00 (Collect at work place),1495,4024,2539,11:00 to 12:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,7,12.458333333333334,39
+MFD1126,22,06:00 to 21:00 (Home),1872,1429,1994,10:00 to 11:00,TSH,Blood,Vaccum blood collection tube,5,15.599999999999998,39
+PDC1117,31,19:00 to 22:00 (working person),2982,4205,1343,19:00 to 20:00,Lipid Profile,Blood,Vaccum blood collection tube,9,24.849999999999998,39
+PDC1118,27,06:00 to 18:00 (Collect at work place),3287,4814,1558,17:00 to 18:00,Complete Urinalysis,Urine,Urine culture transport tube,15,27.391666666666666,39
